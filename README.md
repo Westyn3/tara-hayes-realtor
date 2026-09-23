@@ -1,6 +1,6 @@
 # Tara Hayes, Realtor — Static Site (GitHub Pages)
 
-24-page static build. Brand: **Tara Hayes, Realtor / The Broker in a Hat** (H2 Home Group retired).
+46-page static build (30 area pages). Brand: **Tara Hayes, Realtor / The Broker in a Hat** (H2 Home Group retired).
 Full spec (metadata source of truth): the "Tara Hayes Site Build Spec" doc.
 
 ## Before launch — find/replace + fill-ins
