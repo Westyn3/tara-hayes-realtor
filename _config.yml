@@ -1,0 +1,17 @@
+# Jekyll config — built by GitHub Actions (actions/jekyll-build-pages).
+# DOMAIN CUTOVER: when the custom domain goes live, change `url` to the new
+# domain and `baseurl` to "" — every canonical, OG tag, sitemap and feed URL
+# flows from these two lines. Then add a CNAME file and re-deploy.
+title: "Tara Hayes, Realtor — Knoxville & East Tennessee"
+url: "https://westyn3.github.io"
+baseurl: "/tara-hayes-realtor"
+timezone: America/New_York
+future: false
+permalink: /blog/:title/
+markdown: kramdown
+defaults:
+  - scope: { path: "", type: "posts" }
+    values: { layout: "post" }
+exclude:
+  - README.md
+  - vendor

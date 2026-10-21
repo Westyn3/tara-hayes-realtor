@@ -1,0 +1,197 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ page.title }}</title>
+  <meta name="description" content="{{ page.description | strip_newlines | strip }}">
+  <link rel="canonical" href="{{ page.url | absolute_url }}">
+  <meta name="robots" content="index, follow, max-image-preview:large">
+  <meta name="author" content="Tara Hayes">
+  <meta name="theme-color" content="#2E4A3B">
+  <meta name="geo.region" content="US-TN">
+  <meta name="geo.placename" content="Knoxville, Tennessee">
+  <meta name="ICBM" content="35.8830, -84.0720">
+  <meta property="og:site_name" content="Tara Hayes, Realtor">
+  <meta property="og:locale" content="en_US">
+  <meta property="og:type" content="{% if page.og_type %}{{ page.og_type }}{% else %}website{% endif %}">
+  <meta property="og:title" content="{{ page.title }}">
+  <meta property="og:description" content="{{ page.description | strip_newlines | strip }}">
+  <meta property="og:url" content="{{ page.url | absolute_url }}">
+  <meta property="og:image" content="{{ '/images/og-tara-hayes.jpg' | absolute_url }}">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="{{ page.title }}">
+  <meta name="twitter:description" content="{{ page.description | strip_newlines | strip }}">
+  <meta name="twitter:image" content="{{ '/images/og-tara-hayes.jpg' | absolute_url }}">
+  <link rel="icon" href="{{ '/favicon.svg' | relative_url }}" type="image/svg+xml">
+  <link rel="alternate" type="application/atom+xml" title="Tara Hayes — Knoxville Real Estate Blog" href="{{ '/feed.xml' | relative_url }}">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Archivo:wght@400;500;600&family=Fraunces:ital,opsz,wght@0,9..144,600;0,9..144,700;1,9..144,500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="{{ '/css/style.css' | relative_url }}">
+  {% if page.hero_video %}<link rel="preload" as="image" href="{{ '/hero-poster.jpg' | relative_url }}">{% endif %}
+  <!-- GA4: paste the measurement snippet here before launch (same property as the Real Geeks phase)
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-XXXXXXXXXX"></script>
+  <script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','G-XXXXXXXXXX');</script>
+  -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "RealEstateAgent",
+    "@id": "{{ '/' | absolute_url }}#agent",
+    "name": "Tara Hayes Realtor",
+    "alternateName": "The Broker in a Hat",
+    "url": "{{ '/' | absolute_url }}",
+    "image": "{{ '/images/og-tara-hayes.jpg' | absolute_url }}",
+    "logo": "{{ '/favicon.svg' | absolute_url }}",
+    "description": "I'm Tara Hayes, Knoxville Realtor and broker at Realty Executives Associates. For 16+ years I've helped buyers, sellers, and investors across East Tennessee — Farragut, Hardin Valley, Karns, Bearden, Maryville, Oak Ridge, Lenoir City, and Tellico Village. As a licensed building contractor, I bring a builder's eye to every showing, inspection, and new construction walkthrough.",
+    "telephone": "+18652428010",
+    "email": "tara@h2homegroup.com",
+    "foundingDate": "2009-08",
+    "priceRange": "$$$",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "10255 Kingston Pike",
+      "addressLocality": "Knoxville",
+      "addressRegion": "TN",
+      "postalCode": "37922",
+      "addressCountry": "US"
+    },
+    "geo": { "@type": "GeoCoordinates", "latitude": 35.8830, "longitude": -84.0720 },
+    "openingHoursSpecification": [
+      { "@type": "OpeningHoursSpecification", "dayOfWeek": ["Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"], "opens": "07:00", "closes": "21:00" },
+      { "@type": "OpeningHoursSpecification", "dayOfWeek": "Sunday", "opens": "12:00", "closes": "21:00" }
+    ],
+    "areaServed": [
+      {"@type":"City","name":"Knoxville, TN"}, {"@type":"City","name":"Farragut, TN"},
+      {"@type":"City","name":"Maryville, TN"}, {"@type":"City","name":"Oak Ridge, TN"},
+      {"@type":"City","name":"Alcoa, TN"}, {"@type":"City","name":"Lenoir City, TN"},
+      {"@type":"City","name":"Sevierville, TN"}, {"@type":"City","name":"Louisville, TN"},
+      {"@type":"City","name":"Friendsville, TN"}, {"@type":"City","name":"Loudon, TN"},
+      {"@type":"City","name":"Greenback, TN"}, {"@type":"City","name":"Jefferson City, TN"},
+      {"@type":"City","name":"Morristown, TN"}, {"@type":"City","name":"Clinton, TN"},
+      {"@type":"City","name":"Powell, TN"}, {"@type":"City","name":"Maynardville, TN"},
+      {"@type":"City","name":"Seymour, TN"}, {"@type":"City","name":"Pigeon Forge, TN"},
+      {"@type":"City","name":"Townsend, TN"}, {"@type":"City","name":"Dandridge, TN"},
+      {"@type":"City","name":"Sweetwater, TN"}, {"@type":"City","name":"Madisonville, TN"},
+      {"@type":"City","name":"Athens, TN"}, {"@type":"City","name":"Decatur, TN"},
+      {"@type":"Place","name":"Tellico Village, TN"}, {"@type":"Place","name":"Hardin Valley, Knoxville, TN"},
+      {"@type":"Place","name":"Bearden, Knoxville, TN"}, {"@type":"Place","name":"Karns, Knoxville, TN"},
+      {"@type":"Place","name":"Sequoyah Hills, Knoxville, TN"}, {"@type":"Place","name":"Deane Hill, Knoxville, TN"},
+      {"@type":"Place","name":"Halls, Knoxville, TN"}, {"@type":"Place","name":"Roane County, TN"}
+    ],
+    "knowsAbout": ["Luxury homes","Lakefront property","New construction","First-time home buyers","Family relocation","Investment property","Property management","Land and acreage","Knoxville TN real estate","Farragut TN real estate","Tellico Village real estate"],
+    "sameAs": [
+      "https://www.linkedin.com/in/realtorinahat/",
+      "https://www.tiktok.com/@realtorinahat",
+      "https://www.facebook.com/realtorinahat",
+      "https://www.instagram.com/realtorinahat/",
+      "https://twitter.com/realtorinahat",
+      "https://www.youtube.com/@Realtorinahat",
+      "https://www.pinterest.com/Realtorinahat",
+      "https://www.zillow.com/profile/realtorinahat/",
+      "https://www.realtyexecutives.com/agent/tara-hayes"
+    ],
+    "memberOf": { "@type": "RealEstateOrganization", "name": "Realty Executives Associates", "telephone": "+18656933232" },
+    "hasCredential": [
+      { "@type": "EducationalOccupationalCredential", "credentialCategory": "license", "name": "Tennessee Real Estate Broker License #333578", "recognizedBy": { "@type": "GovernmentOrganization", "name": "Tennessee Real Estate Commission" } },
+      { "@type": "EducationalOccupationalCredential", "credentialCategory": "license", "name": "Tennessee Licensed Building Contractor" }
+    ],
+    "hasOfferCatalog": {
+      "@type": "OfferCatalog",
+      "name": "Real Estate Services",
+      "itemListElement": [
+        {"@type":"Offer","itemOffered":{"@type":"Service","name":"Buying Agent Services","url":"{{ '/buying.html' | absolute_url }}"}},
+        {"@type":"Offer","itemOffered":{"@type":"Service","name":"Seller's Agent Services","url":"{{ '/selling.html' | absolute_url }}"}},
+        {"@type":"Offer","itemOffered":{"@type":"Service","name":"First-Time Home Buyer Services","url":"{{ '/first-time-home-buyers.html' | absolute_url }}"}},
+        {"@type":"Offer","itemOffered":{"@type":"Service","name":"New Construction Services","url":"{{ '/new-construction.html' | absolute_url }}"}},
+        {"@type":"Offer","itemOffered":{"@type":"Service","name":"Luxury & Lakefront Property","url":"{{ '/luxury-lakefront.html' | absolute_url }}"}},
+        {"@type":"Offer","itemOffered":{"@type":"Service","name":"Building Lot & Land Sales","url":"{{ '/land-lots.html' | absolute_url }}"}},
+        {"@type":"Offer","itemOffered":{"@type":"Service","name":"Commercial Property","url":"{{ '/commercial.html' | absolute_url }}"}},
+        {"@type":"Offer","itemOffered":{"@type":"Service","name":"Real Estate Investing","url":"{{ '/investing.html' | absolute_url }}"}},
+        {"@type":"Offer","itemOffered":{"@type":"Service","name":"Property Management","url":"{{ '/property-management.html' | absolute_url }}"}},
+        {"@type":"Offer","itemOffered":{"@type":"Service","name":"Relocation Assistance","url":"{{ '/relocation-to-knoxville.html' | absolute_url }}"}}
+      ]
+    }
+  }
+  </script>
+  {% if page.crumb %}
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {"@type":"ListItem","position":1,"name":"Home","item":"{{ '/' | absolute_url }}"},
+      {"@type":"ListItem","position":2,"name":"{{ page.crumb }}","item":"{{ page.url | absolute_url }}"}
+    ]
+  }
+  </script>
+  {% endif %}
+</head>
+<body>
+
+<header class="site-header">
+  <div class="wrap">
+    <a class="brand" href="{{ '/' | relative_url }}">Tara Hayes<small>Realtor &middot; Knoxville, TN</small></a>
+    <button class="nav-toggle" aria-expanded="false" aria-label="Menu">&#9776;</button>
+    <nav class="nav" aria-label="Main">
+      <a href="{{ '/search.html' | relative_url }}">Search homes</a>
+      <a href="{{ '/buying.html' | relative_url }}">Buy</a>
+      <a href="{{ '/selling.html' | relative_url }}">Sell</a>
+      <a href="{{ '/about.html' | relative_url }}">About Tara</a>
+      <a href="{{ '/reviews.html' | relative_url }}">Reviews</a>
+      <a href="{{ '/blog.html' | relative_url }}">Blog</a>
+      <a href="{{ '/contact.html' | relative_url }}">Contact</a>
+      <a class="call" href="tel:+18652428010">(865) 242-8010</a>
+    </nav>
+  </div>
+</header>
+
+<main>
+{{ content }}
+</main>
+
+<footer class="site-footer">
+  <div class="wrap">
+    <div>
+      <h3>Tara Hayes, Realtor</h3>
+      <ul>
+        <li><a href="tel:+18652428010">(865) 242-8010</a> &middot; call or text</li>
+        <li><a href="mailto:tara@h2homegroup.com">tara@h2homegroup.com</a></li>
+        <li>Mon&ndash;Sat 7am&ndash;9pm &middot; Sun 12&ndash;9pm</li>
+      </ul>
+    </div>
+    <div>
+      <h3>Services</h3>
+      <ul>
+        <li><a href="{{ '/buying.html' | relative_url }}">Buying</a></li>
+        <li><a href="{{ '/selling.html' | relative_url }}">Selling</a></li>
+        <li><a href="{{ '/luxury-lakefront.html' | relative_url }}">Luxury &amp; lakefront</a></li>
+        <li><a href="{{ '/new-construction.html' | relative_url }}">New construction</a></li>
+        <li><a href="{{ '/property-management.html' | relative_url }}">Property management</a></li>
+        <li><a href="{{ '/relocation-to-knoxville.html' | relative_url }}">Relocation</a></li>
+      </ul>
+    </div>
+    <div>
+      <h3>Follow Tara</h3>
+      <ul>
+        <li><a href="https://www.facebook.com/realtorinahat">Facebook</a></li>
+        <li><a href="https://www.instagram.com/realtorinahat/">Instagram</a></li>
+        <li><a href="https://www.youtube.com/@Realtorinahat">YouTube</a></li>
+        <li><a href="https://www.zillow.com/profile/realtorinahat/">Zillow reviews</a></li>
+        <li><a href="{{ '/blog.html' | relative_url }}">Knoxville blog</a></li>
+      </ul>
+    </div>
+  </div>
+  <div class="compliance">
+    <div class="wrap">
+      Tara Hayes, Realtor &middot; TN License #333578 &middot; Realty Executives Associates &middot; 10255 Kingston Pike, Knoxville, TN 37922 &middot; Office (865) 693-3232 &middot; Equal Housing Opportunity. Each office independently owned and operated. Website by <a href="https://knoxlinesystems.com" rel="author">Knoxline Systems</a>.
+    </div>
+  </div>
+</footer>
+
+<script src="{{ '/js/main.js' | relative_url }}"></script>
+</body>
+</html>

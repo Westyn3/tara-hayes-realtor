@@ -1,0 +1,34 @@
+---
+layout: default
+title: "Knoxville Real Estate Blog | Tara Hayes, Realtor"
+description: "Neighborhood guides, market updates, and honest advice on buying, selling, and building in Knoxville & East Tennessee — from a contractor-broker."
+crumb: "Blog"
+---
+<section class="page-hero">
+  <div class="wrap">
+    <h1>The Knoxville blog</h1>
+    <p>Neighborhood guides, market honesty, and a contractor's take on East Tennessee homes.</p>
+  </div>
+</section>
+<section class="section">
+  <div class="wrap">
+    <div class="grid">
+      {% for post in site.posts %}
+      <div class="card">
+        <p class="post-date">{{ post.date | date: "%B %-d, %Y" }}{% if post.area %} &middot; {{ post.area }}{% endif %}</p>
+        <h3><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
+        <p>{{ post.description | truncate: 150 }}</p>
+        <a class="more" href="{{ post.url | relative_url }}">Read the post</a>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+</section>
+
+<section class="section cta-band">
+  <div class="wrap">
+    <h2>Ready to make your move?</h2>
+    <p>Call or text (865) 242-8010, or send a message &mdash; Tara will get right back to you.</p>
+    <a class="btn btn-ghost btn-ghost-light" href="{{ '/contact.html' | relative_url }}">Contact Tara</a>
+  </div>
+</section>

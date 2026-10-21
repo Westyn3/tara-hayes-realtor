@@ -1,0 +1,50 @@
+# Builds and deploys the Jekyll site daily so future-dated posts publish
+# automatically once their date passes. GitHub cron runs are often delayed
+# by hours, so there is deliberately NO time-of-day gate — an unconditional
+# daily build always publishes anything that has become due.
+name: Publish scheduled posts
+
+on:
+  schedule:
+    # UTC. Two runs a day for redundancy; each simply builds whatever is due.
+    - cron: '5 12 * * *'
+    - cron: '5 13 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build-and-deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Configure GitHub Pages
+        uses: actions/configure-pages@v5
+
+      - name: Build Jekyll site
+        uses: actions/jekyll-build-pages@v1
+        with:
+          source: ./
+          destination: ./_site
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v4
+        with:
+          path: ./_site
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

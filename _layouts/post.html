@@ -1,0 +1,58 @@
+---
+layout: default
+og_type: article
+---
+<section class="page-hero">
+  <div class="wrap">
+    <p class="eyebrow">Knoxville Real Estate Blog</p>
+    <h1>{{ page.title }}</h1>
+    <p>{{ page.description }}</p>
+    <p class="post-meta"><time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %-d, %Y" }}</time> &middot; by Tara Hayes{% if page.area %} &middot; {{ page.area }}{% endif %}</p>
+  </div>
+</section>
+
+<article class="section">
+  <div class="wrap prose">
+    {{ content }}
+    <hr class="post-rule">
+    <p><em>Tara Hayes is a Knoxville Realtor and licensed building contractor at Realty Executives Associates, serving buyers and sellers across East Tennessee since 2009. Call or text <a href="tel:+18652428010">(865) 242-8010</a>.</em></p>
+  </div>
+</article>
+
+<section class="section section-alt">
+  <div class="wrap">
+    <h2>More from the blog</h2>
+    <div class="grid">
+      {% assign others = site.posts | where_exp: "p", "p.url != page.url" | slice: 0, 3 %}
+      {% for p in others %}
+      <div class="card">
+        <h3><a href="{{ p.url | relative_url }}">{{ p.title }}</a></h3>
+        <p>{{ p.description | truncate: 120 }}</p>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+</section>
+
+<section class="section cta-band">
+  <div class="wrap">
+    <h2>Let Tara do your #HomeWork</h2>
+    <p>Buying, selling, or building in East Tennessee &mdash; call, text, or send a message and Tara will get right back to you.</p>
+    <a class="btn btn-ghost btn-ghost-light" href="{{ '/contact.html' | relative_url }}">Contact Tara</a>
+  </div>
+</section>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": {{ page.title | jsonify }},
+  "description": {{ page.description | jsonify }},
+  "datePublished": "{{ page.date | date_to_xmlschema }}",
+  "dateModified": "{{ page.date | date_to_xmlschema }}",
+  "mainEntityOfPage": "{{ page.url | absolute_url }}",
+  "image": "{{ '/images/og-tara-hayes.jpg' | absolute_url }}",
+  "author": { "@type": "Person", "name": "Tara Hayes", "url": "{{ '/about.html' | absolute_url }}" },
+  "publisher": { "@id": "{{ '/' | absolute_url }}#agent" }
+}
+</script>
