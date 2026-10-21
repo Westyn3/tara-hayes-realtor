@@ -100,6 +100,7 @@ hero_video: true
   </div>
 </section>
 
+{% if site.posts.size > 0 %}
 <section class="section">
   <div class="wrap">
     <h2>From the Knoxville blog</h2>
@@ -115,6 +116,7 @@ hero_video: true
     <p style="margin-top:1.5rem;"><a href="{{ '/blog.html' | relative_url }}">All posts</a></p>
   </div>
 </section>
+{% endif %}
 
 <section class="section cta-band">
   <div class="wrap">
