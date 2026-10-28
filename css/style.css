@@ -185,3 +185,9 @@ p + p { margin-top: 1em; }
 
 /* IDX embed */
 .idx-frame { border: 1px solid var(--line); border-radius: 6px; overflow: hidden; background: var(--white); }
+
+/* Brand photos */
+.photo-split { display: grid; grid-template-columns: minmax(260px, 2fr) 3fr; gap: 2.2rem; align-items: center; }
+.photo-split img { width: 100%; height: auto; border-radius: 6px; border: 1px solid var(--line); }
+@media (max-width: 720px) { .photo-split { grid-template-columns: 1fr; } }
+.about-photo { max-width: 420px; border-radius: 6px; border: 1px solid var(--line); margin-bottom: 1.6rem; }
