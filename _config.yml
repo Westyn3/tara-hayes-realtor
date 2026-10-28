@@ -7,11 +7,10 @@ url: "https://westyn3.github.io"
 baseurl: "/tara-hayes-realtor"
 timezone: America/New_York
 future: false
-permalink: /blog/:title/
 markdown: kramdown
 defaults:
   - scope: { path: "", type: "posts" }
-    values: { layout: "post" }
+    values: { layout: "post", permalink: "/blog/:title/" }
 exclude:
   - README.md
   - vendor
