@@ -182,3 +182,6 @@ p + p { margin-top: 1em; }
   .nav-toggle { display: block; }
 }
 @media (prefers-reduced-motion: reduce) { html { scroll-behavior: auto; } }
+
+/* IDX embed */
+.idx-frame { border: 1px solid var(--line); border-radius: 6px; overflow: hidden; background: var(--white); }
