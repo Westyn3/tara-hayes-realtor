@@ -1,12 +1,12 @@
 /* Tara Hayes, Realtor — The Broker in a Hat
-   Luxury + family: deep pine, warm brass, ivory light.
-   Palette: pine #2E4A3B · pine-deep #223A2E · ink #20261F · brass #A87B2F · ivory #FDFBF6 · stone #F7F6F2
+   Luxury + family: warm charcoal ink, brass, ivory light (matched to her brand shoot).
+   Palette: pine #2B2A25 · pine-deep #1C1B17 · ink #26241F · brass #A87B2F · ivory #FDFBF6 · stone #F7F6F2
    Type: Fraunces (display) · Archivo (body)
 */
 :root {
-  --pine: #2E4A3B;
-  --pine-deep: #223A2E;
-  --ink: #20261F;
+  --pine: #2B2A25;
+  --pine-deep: #1C1B17;
+  --ink: #26241F;
   --brass: #A87B2F;
   --brass-soft: #C29A55;
   --ivory: #FDFBF6;
@@ -150,7 +150,7 @@ p + p { margin-top: 1em; }
 .page-hero { background: var(--pine); color: var(--white); }
 .page-hero .wrap { padding-top: clamp(2.4rem, 6vw, 3.8rem); padding-bottom: clamp(2.4rem, 6vw, 3.8rem); }
 .page-hero h1 { font-size: clamp(2rem, 4.5vw, 3rem); }
-.page-hero p { max-width: 42em; margin-top: 0.7rem; color: #E8EBE4; }
+.page-hero p { max-width: 42em; margin-top: 0.7rem; color: #EAE7E0; }
 .page-hero .eyebrow { color: var(--brass-soft); }
 .post-meta { font-size: 0.92rem; }
 
@@ -163,18 +163,18 @@ p + p { margin-top: 1em; }
 /* CTA band */
 .cta-band { background: var(--pine); color: var(--white); text-align: center; }
 .cta-band h2 { color: var(--white); }
-.cta-band p { max-width: 38em; margin: 0.6rem auto 1.5rem; color: #E8EBE4; }
+.cta-band p { max-width: 38em; margin: 0.6rem auto 1.5rem; color: #EAE7E0; }
 
 /* Footer */
-.site-footer { background: var(--ink); color: #C9CCC2; font-size: 0.92rem; }
+.site-footer { background: var(--ink); color: #CBC8C0; font-size: 0.92rem; }
 .site-footer .wrap { padding-top: 2.6rem; padding-bottom: 2.2rem; display: grid; gap: 2rem; grid-template-columns: repeat(auto-fit, minmax(230px, 1fr)); }
 .site-footer h3 { color: var(--white); font-size: 1.05rem; margin-bottom: 0.6rem; }
-.site-footer a { color: #E4E6DE; }
+.site-footer a { color: #E6E3DB; }
 .site-footer ul { list-style: none; }
 .site-footer li { margin-bottom: 0.4rem; }
-.compliance { border-top: 1px solid #3A4136; }
-.compliance .wrap { display: block; padding-top: 1.1rem; padding-bottom: 1.3rem; font-size: 0.83rem; color: #9BA093; }
-.compliance a { color: #B9BEB0; }
+.compliance { border-top: 1px solid #3B3832; }
+.compliance .wrap { display: block; padding-top: 1.1rem; padding-bottom: 1.3rem; font-size: 0.83rem; color: #9D9A91; }
+.compliance a { color: #BBB8AF; }
 
 @media (max-width: 860px) {
   .nav { display: none; position: absolute; top: 100%; left: 0; right: 0; background: var(--ivory); border-bottom: 1px solid var(--line); flex-direction: column; align-items: flex-start; padding: 1rem 1.25rem 1.4rem; }
