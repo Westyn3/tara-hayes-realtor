@@ -226,3 +226,7 @@ p + p { margin-top: 1em; }
   .drop-wide { transform: none; columns: 1; }
   .has-drop.open > .drop { display: block; }
 }
+
+/* Reversed photo split (text left, image right on desktop) */
+.photo-split-rev { grid-template-columns: 3fr minmax(260px, 2fr); }
+@media (max-width: 720px) { .photo-split-rev { grid-template-columns: 1fr; } .photo-split-rev img { order: -1; } }
