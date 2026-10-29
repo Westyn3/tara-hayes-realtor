@@ -1,7 +1,7 @@
 ---
 title: "Moving to Knoxville in 2026: The Complete Family Guide"
 date: 2026-10-23 07:00:00 -0400
-description: "Schools, commutes, neighborhoods, and what your budget really buys — an honest relocation guide to Knoxville and East Tennessee from a 16-year local Realtor."
+description: "Schools, commutes, neighborhoods, and what your budget really buys — an honest relocation guide to Knoxville and East Tennessee from a 11-year local Realtor."
 area: "Knoxville"
 ---
 

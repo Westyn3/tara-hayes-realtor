@@ -5,7 +5,7 @@ description: "A Christmas-morning walk through the neighborhoods that make Knoxv
 area: "Knoxville"
 ---
 
-It's Christmas morning, so no market stats today — just gratitude for the place where I've spent sixteen years helping families find home.
+It's Christmas morning, so no market stats today — just gratitude for the place where I've spent eleven years helping families find home.
 
 To **[Sequoyah Hills]({{ '/areas/sequoyah-hills.html' | relative_url }})**, whose boulevard in December looks like the inside of a snow globe, and whose houses have watched a century of Christmases.
 

@@ -1,11 +1,11 @@
 ---
 title: "Selling Your Knoxville Home in Winter: Why the Holidays Actually Work"
 date: 2026-12-18 07:00:00 -0500
-description: "Conventional wisdom says wait for spring. The data — and sixteen winters of Knoxville closings — say otherwise. Here's when winter listing wins."
+description: "Conventional wisdom says wait for spring. The data — and eleven winters of Knoxville closings — say otherwise. Here's when winter listing wins."
 area: "Sellers"
 ---
 
-Every December, someone tells me they'll "wait until spring to list." Sometimes that's right. But after sixteen winters of Knoxville closings, I can tell you the conventional wisdom costs some sellers real money.
+Every December, someone tells me they'll "wait until spring to list." Sometimes that's right. But after eleven winters of Knoxville closings, I can tell you the conventional wisdom costs some sellers real money.
 
 ## Winter buyers are serious buyers
 
