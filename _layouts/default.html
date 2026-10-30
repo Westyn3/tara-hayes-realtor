@@ -261,5 +261,26 @@
 </footer>
 
 <script src="{{ '/js/main.js' | relative_url }}"></script>
+<script>
+// Lead tracking: report phone taps, email clicks, and form submissions to GA4
+(function(){
+  if (typeof gtag !== 'function') return;
+  document.addEventListener('click', function(e){
+    var a = e.target.closest && e.target.closest('a[href^="tel:"], a[href^="mailto:"]');
+    if (!a) return;
+    var isTel = a.href.indexOf('tel:') === 0;
+    gtag('event', isTel ? 'phone_click' : 'email_click', {
+      link_target: a.href.replace(/^(tel:|mailto:)/,''),
+      page_source: location.pathname
+    });
+  });
+  document.addEventListener('submit', function(e){
+    var f = e.target;
+    if (!f || !f.action || f.action.indexOf('formspree.io') === -1) return;
+    var src = f.querySelector('input[name="page_source"]');
+    gtag('event', 'generate_lead', { page_source: (src && src.value) || location.pathname });
+  });
+}());
+</script>
 </body>
 </html>
