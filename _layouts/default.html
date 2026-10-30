@@ -31,6 +31,7 @@
   <link rel="icon" href="{{ '/favicon.svg' | relative_url }}" type="image/svg+xml">
   <link rel="apple-touch-icon" href="{{ '/apple-touch-icon.png' | relative_url }}">
   <link rel="alternate" type="application/atom+xml" title="Tara Hayes — Knoxville Real Estate Blog" href="{{ '/feed.xml' | relative_url }}">
+  {% if page.hero_video %}<link rel="preload" as="image" href="{{ '/hero-poster.jpg' | relative_url }}" fetchpriority="high">{% endif %}
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Archivo:wght@400;500;600&family=Fraunces:ital,opsz,wght@0,9..144,600;0,9..144,700;1,9..144,500&display=swap" rel="stylesheet">
