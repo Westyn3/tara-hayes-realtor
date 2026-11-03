@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "Sold by Tara Hayes | 335+ Closed Sales in East TN"
-description: "Every closed sale in Tara Hayes' MLS record since 2015 — 335+ transactions and $97M+ across Knoxville, Farragut, the lakes, and all of East Tennessee."
+title: "Sold by Tara Hayes | 360+ Closed Sales in East TN"
+description: "Every closed sale in Tara Hayes' MLS record since 2015 — 360+ transactions and $99M+ across Knoxville, Farragut, the lakes, and all of East Tennessee."
 crumb: "Sold"
 ---
 <section class="page-hero">
@@ -15,7 +15,7 @@ crumb: "Sold"
 <section class="section">
   <div class="wrap creds">
     <div><strong>{{ site.data.sold.size }} closings</strong><span>since August 2015, all verifiable in the MLS</span></div>
-    <div><strong>$97M+</strong><span>in closed volume, career to date</span></div>
+    <div><strong>$99M+</strong><span>in closed volume, career to date</span></div>
     <div><strong>Both sides</strong><span>{{ site.data.sold | where: "role", "Represented seller" | size }} seller-side &middot; {{ site.data.sold | where: "role", "Represented buyer" | size }} buyer-side</span></div>
     <div><strong>25 communities</strong><span>Knoxville to the lakes to the foothills</span></div>
   </div>
@@ -52,6 +52,15 @@ crumb: "Sold"
           <option value="other">Other East TN</option>
         </select>
       </label>
+      <label>Type
+        <select id="sold-ptype">
+          <option value="">All types</option>
+          <option value="home">Homes</option>
+          <option value="land">Land</option>
+          <option value="multi">Multi-family</option>
+          <option value="commercial">Commercial</option>
+        </select>
+      </label>
       <label>Year
         <select id="sold-year">
           <option value="">All years</option>
@@ -78,7 +87,7 @@ crumb: "Sold"
 
 <section class="section">
   <div class="wrap">
-    <p style="font-size:0.85rem;color:var(--line);color:#8a8678;">Sold prices shown as ranges. Tennessee is a non-disclosure state; figures reflect Tara's own MLS closed-transaction records, 2015&ndash;present, East Tennessee Realtors MLS. Single-family residential shown.</p>
+    <p style="font-size:0.85rem;color:var(--line);color:#8a8678;">Sold prices shown as ranges. Tennessee is a non-disclosure state; figures reflect Tara's own MLS closed-transaction records, 2015&ndash;present, East Tennessee Realtors MLS. Residential, land, multi-family, and commercial sales shown; lease placements excluded.</p>
   </div>
 </section>
 
@@ -86,12 +95,13 @@ crumb: "Sold"
 (function () {
   var area = document.getElementById('sold-area'),
       year = document.getElementById('sold-year'),
+      ptype = document.getElementById('sold-ptype'),
       count = document.getElementById('sold-count'),
       cards = document.querySelectorAll('#sold-grid .sold-card');
   function apply() {
-    var a = area.value, y = year.value, shown = 0;
+    var a = area.value, y = year.value, t = ptype.value, shown = 0;
     cards.forEach(function (c) {
-      var ok = (!a || c.dataset.slug === a) && (!y || c.dataset.year === y);
+      var ok = (!a || c.dataset.slug === a) && (!y || c.dataset.year === y) && (!t || c.dataset.ptype === t);
       c.style.display = ok ? '' : 'none';
       if (ok) shown++;
     });
@@ -99,6 +109,7 @@ crumb: "Sold"
   }
   area.addEventListener('change', apply);
   year.addEventListener('change', apply);
+  ptype.addEventListener('change', apply);
   var params = new URLSearchParams(location.search);
   if (params.get('area')) { area.value = params.get('area'); apply(); }
 }());

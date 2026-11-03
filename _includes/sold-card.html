@@ -1,4 +1,4 @@
-<div class="sold-card" data-slug="{{ include.s.slug | default: 'other' }}" data-year="{{ include.s.year }}">
+<div class="sold-card" data-slug="{{ include.s.slug | default: 'other' }}" data-year="{{ include.s.year }}" data-ptype="{{ include.s.ptype | default: 'home' }}">
   <div class="sold-top">
     <span class="sold-range">{{ include.s.range }}</span>
     <span class="sold-year">{{ include.s.year }}</span>
@@ -9,6 +9,8 @@
     {%- if include.s.beds %}{{ include.s.beds }} bd{% endif -%}
     {%- if include.s.baths %} &middot; {{ include.s.baths }} ba{% endif -%}
     {%- if include.s.sqft %} &middot; {{ include.s.sqft }} sqft{% endif -%}
+    {%- if include.s.beds == nil and include.s.acres %}{{ include.s.acres }} acres{% endif -%}
+    {%- if include.s.ptype == 'land' %} &middot; Land{% elsif include.s.ptype == 'multi' %} &middot; Multi-family{% elsif include.s.ptype == 'commercial' %} &middot; Commercial{% endif -%}
   </p>
   <span class="sold-role{% if include.s.role == 'Represented buyer' %} sold-role-buyer{% elsif include.s.role == 'Both sides' %} sold-role-both{% endif %}">{{ include.s.role }}</span>
 </div>

@@ -48,6 +48,10 @@ def main(src):
         sub = '' if sub.lower() in ('', 'none', 'n/a', 'na', 'no', 'other') else re.sub(r'\s+lot\s+\S+$', '', sub, flags=re.I).strip()
         try: sqft = int(float(r['SqFt - Total (Aprox)'] or 0))
         except ValueError: sqft = 0
+        try: acres = float(r.get('Acres') or 0)
+        except ValueError: acres = 0.0
+        PT = {'Residential':'home','Land':'land','MultiFamily':'multi','Commercial':'commercial'}
+        ptype = PT.get((r.get('Property Type') or 'Residential').strip(), 'home')
         out.append({
             'mls': (r['List Number'] or '').strip(),
             'addr': addr.title().replace("'S", "'s"),
@@ -57,6 +61,7 @@ def main(src):
             'beds': (r['# Bedrooms'] or '').strip() or None,
             'baths': (r['Baths - Full'] or '').strip() or None,
             'sqft': sqft or None, 'sub': sub or None,
+            'ptype': ptype, 'acres': round(acres, 2) if acres else None,
             'photo': (r['Photo URL'] or '').strip() or None,
         })
     out.sort(key=lambda x: x['date'], reverse=True)

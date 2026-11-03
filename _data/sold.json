@@ -13,6 +13,8 @@
   "baths": "1",
   "sqft": 1630,
   "sub": "Sherwood Estates Unit 4",
+  "ptype": "home",
+  "acres": 0.39,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20260615191052000702000000.jpg"
  },
  {
@@ -29,6 +31,8 @@
   "baths": "3",
   "sqft": 2995,
   "sub": "Sevenoaks Unit 4",
+  "ptype": "home",
+  "acres": 0.64,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20260704153604736172000000.jpg"
  },
  {
@@ -45,6 +49,8 @@
   "baths": "1",
   "sqft": 828,
   "sub": "Sequoyah Square",
+  "ptype": "home",
+  "acres": null,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20260625215026762998000000.jpg"
  },
  {
@@ -61,6 +67,8 @@
   "baths": "4",
   "sqft": 3173,
   "sub": "Mallard Baye Phase 5",
+  "ptype": "home",
+  "acres": 0.74,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20260306133647010205000000.jpg"
  },
  {
@@ -77,6 +85,8 @@
   "baths": "3",
   "sqft": 1789,
   "sub": "Concord Woods Unit 2",
+  "ptype": "home",
+  "acres": 0.32,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20260716175846678148000000.jpg"
  },
  {
@@ -93,6 +103,8 @@
   "baths": "2",
   "sqft": 1667,
   "sub": "Silo Acres Unit 2",
+  "ptype": "home",
+  "acres": 0.65,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20260421172650951560000000.jpg"
  },
  {
@@ -109,6 +121,8 @@
   "baths": "1",
   "sqft": 864,
   "sub": null,
+  "ptype": "home",
+  "acres": 0.01,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20260526165537185799000000.jpg"
  },
  {
@@ -125,6 +139,8 @@
   "baths": "2",
   "sqft": 1236,
   "sub": "Bell Place",
+  "ptype": "home",
+  "acres": 0.55,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20260521190050081034000000.jpg"
  },
  {
@@ -141,6 +157,8 @@
   "baths": "2",
   "sqft": 1136,
   "sub": "Indian Hills",
+  "ptype": "home",
+  "acres": 1.0,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20260411221627929525000000.jpg"
  },
  {
@@ -157,6 +175,8 @@
   "baths": "3",
   "sqft": 4053,
   "sub": "Bennington Place",
+  "ptype": "home",
+  "acres": 0.64,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20260123215512754110000000.jpg"
  },
  {
@@ -173,6 +193,8 @@
   "baths": "2",
   "sqft": 864,
   "sub": null,
+  "ptype": "home",
+  "acres": 0.25,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20260526170905933561000000.jpg"
  },
  {
@@ -189,6 +211,8 @@
   "baths": "1",
   "sqft": 1488,
   "sub": "Payne Map Of Lenoir City",
+  "ptype": "home",
+  "acres": 0.16,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20260122184415410751000000.jpg"
  },
  {
@@ -205,6 +229,8 @@
   "baths": "2",
   "sqft": 1475,
   "sub": null,
+  "ptype": "home",
+  "acres": 0.6,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20260409053243548650000000.jpg"
  },
  {
@@ -221,6 +247,8 @@
   "baths": "2",
   "sqft": 1878,
   "sub": "Yarnell Station Unit 1",
+  "ptype": "home",
+  "acres": 0.2,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20260327111143234478000000.jpg"
  },
  {
@@ -237,6 +265,8 @@
   "baths": "2",
   "sqft": 1810,
   "sub": "Carrington",
+  "ptype": "home",
+  "acres": 0.24,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20251118181555881867000000.jpg"
  },
  {
@@ -253,6 +283,8 @@
   "baths": "1",
   "sqft": 960,
   "sub": "West Pine Estates",
+  "ptype": "home",
+  "acres": 0.25,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20260113234805244646000000.jpg"
  },
  {
@@ -269,6 +301,8 @@
   "baths": "2",
   "sqft": 1468,
   "sub": null,
+  "ptype": "home",
+  "acres": 0.32,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20260107143903286848000000.jpg"
  },
  {
@@ -285,6 +319,8 @@
   "baths": "3",
   "sqft": 2511,
   "sub": "Camelot Sub Unit 6",
+  "ptype": "home",
+  "acres": 0.36,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20250818151405765396000000.jpg"
  },
  {
@@ -301,6 +337,8 @@
   "baths": "2",
   "sqft": 1863,
   "sub": null,
+  "ptype": "home",
+  "acres": 1.6,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20251202202453916026000000.jpg"
  },
  {
@@ -317,6 +355,8 @@
   "baths": "2",
   "sqft": 1636,
   "sub": "Crestwood Hills Unit 7",
+  "ptype": "home",
+  "acres": 0.46,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20251206031759149044000000.jpg"
  },
  {
@@ -333,6 +373,8 @@
   "baths": "2",
   "sqft": 2406,
   "sub": "Allenbrook",
+  "ptype": "home",
+  "acres": 0.53,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20251118171112202833000000.jpg"
  },
  {
@@ -349,6 +391,8 @@
   "baths": "2",
   "sqft": 1930,
   "sub": "Burchfield Hgts",
+  "ptype": "home",
+  "acres": 0.86,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20250812191352111230000000.jpg"
  },
  {
@@ -365,7 +409,27 @@
   "baths": "1",
   "sqft": 1300,
   "sub": "Reba Pratt Mauney",
+  "ptype": "home",
+  "acres": 0.97,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20250815193117437676000000.jpg"
+ },
+ {
+  "mls": "1307559",
+  "addr": "Lot 5 Hen Valley Rd",
+  "city": "Oliver Springs",
+  "zip": "37840",
+  "slug": null,
+  "date": "2025-11-18",
+  "year": "2025",
+  "range": "Under $100K",
+  "role": "Represented buyer",
+  "beds": null,
+  "baths": null,
+  "sqft": null,
+  "sub": null,
+  "ptype": "land",
+  "acres": 0.25,
+  "photo": "http://cdn.photos.sparkplatform.com/knx/20250708164625947154000000.jpg"
  },
  {
   "mls": "1311268",
@@ -381,6 +445,8 @@
   "baths": "2",
   "sqft": 2153,
   "sub": "The Grove At Harrison Glen",
+  "ptype": "home",
+  "acres": 0.33,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20250807173927289425000000.jpg"
  },
  {
@@ -397,6 +463,8 @@
   "baths": "2",
   "sqft": 1300,
   "sub": "Ingleside Hills",
+  "ptype": "home",
+  "acres": 0.34,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20250816124036568866000000.jpg"
  },
  {
@@ -413,6 +481,8 @@
   "baths": "2",
   "sqft": 2879,
   "sub": "Emerson Property",
+  "ptype": "home",
+  "acres": 2.76,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20250904141814931570000000.jpg"
  },
  {
@@ -429,6 +499,8 @@
   "baths": "2",
   "sqft": 1560,
   "sub": null,
+  "ptype": "home",
+  "acres": 0.61,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20250829151050714031000000.jpg"
  },
  {
@@ -445,6 +517,8 @@
   "baths": "2",
   "sqft": 2378,
   "sub": null,
+  "ptype": "home",
+  "acres": 3.08,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20250711002918898235000000.jpg"
  },
  {
@@ -461,6 +535,8 @@
   "baths": "2",
   "sqft": 1852,
   "sub": null,
+  "ptype": "home",
+  "acres": 7.15,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20250228032631742297000000.jpg"
  },
  {
@@ -477,6 +553,8 @@
   "baths": "2",
   "sqft": 1400,
   "sub": "Greenbrook Unit 3",
+  "ptype": "home",
+  "acres": 0.27,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20250812210326414084000000.jpg"
  },
  {
@@ -493,6 +571,8 @@
   "baths": "4",
   "sqft": 3667,
   "sub": "Reserve At Hickory Creek Unit 1",
+  "ptype": "home",
+  "acres": 0.21,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20250531192909983958000000.jpg"
  },
  {
@@ -509,6 +589,8 @@
   "baths": "2",
   "sqft": 1980,
   "sub": null,
+  "ptype": "home",
+  "acres": 8.02,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20250530203835516757000000.jpg"
  },
  {
@@ -525,6 +607,8 @@
   "baths": "1",
   "sqft": 1396,
   "sub": null,
+  "ptype": "home",
+  "acres": 0.8,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20250124203059015910000000.jpg"
  },
  {
@@ -541,6 +625,8 @@
   "baths": "2",
   "sqft": 1476,
   "sub": null,
+  "ptype": "home",
+  "acres": 0.34,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20250503021715565305000000.jpg"
  },
  {
@@ -557,6 +643,8 @@
   "baths": "2",
   "sqft": 1480,
   "sub": null,
+  "ptype": "home",
+  "acres": 0.25,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20250624131336189590000000.jpg"
  },
  {
@@ -573,6 +661,8 @@
   "baths": "1",
   "sqft": 1072,
   "sub": null,
+  "ptype": "home",
+  "acres": 0.15,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20250110172555301503000000.jpg"
  },
  {
@@ -589,6 +679,8 @@
   "baths": "3",
   "sqft": 3108,
   "sub": "Bayou Bend",
+  "ptype": "home",
+  "acres": 0.13,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20250412014510901657000000.jpg"
  },
  {
@@ -605,6 +697,8 @@
   "baths": "1",
   "sqft": 1064,
   "sub": "Loveland Add",
+  "ptype": "home",
+  "acres": 0.28,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20250319002242217848000000.jpg"
  },
  {
@@ -621,6 +715,8 @@
   "baths": "2",
   "sqft": 1344,
   "sub": "Pleasant Hill Unit 2",
+  "ptype": "home",
+  "acres": 0.2,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20250606013637763676000000.jpg"
  },
  {
@@ -637,6 +733,8 @@
   "baths": "2",
   "sqft": 1440,
   "sub": "Spring Lake Farms Unit 1",
+  "ptype": "home",
+  "acres": 0.15,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20250328183124933330000000.jpg"
  },
  {
@@ -653,6 +751,8 @@
   "baths": "2",
   "sqft": 1700,
   "sub": "Henderson Heights",
+  "ptype": "home",
+  "acres": 0.3,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20250410205933307700000000.jpg"
  },
  {
@@ -669,6 +769,8 @@
   "baths": "2",
   "sqft": 1290,
   "sub": "Union Court",
+  "ptype": "home",
+  "acres": 0.31,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20250122192945121253000000.jpg"
  },
  {
@@ -685,6 +787,8 @@
   "baths": "1",
   "sqft": 1200,
   "sub": "Clearview Hills",
+  "ptype": "home",
+  "acres": 0.49,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20250308024726870099000000.jpg"
  },
  {
@@ -701,6 +805,8 @@
   "baths": "2",
   "sqft": 1120,
   "sub": "American Textile Woolen Co",
+  "ptype": "home",
+  "acres": 0.19,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20241114184016861391000000.jpg"
  },
  {
@@ -717,6 +823,8 @@
   "baths": "2",
   "sqft": 1120,
   "sub": null,
+  "ptype": "home",
+  "acres": 9.75,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20241211203753453865000000.jpg"
  },
  {
@@ -733,6 +841,8 @@
   "baths": "2",
   "sqft": 1000,
   "sub": null,
+  "ptype": "home",
+  "acres": 0.32,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20250212184855124050000000.jpg"
  },
  {
@@ -749,6 +859,8 @@
   "baths": "3",
   "sqft": 2730,
   "sub": "Windridge",
+  "ptype": "home",
+  "acres": 0.31,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20250126004647924670000000.jpg"
  },
  {
@@ -765,6 +877,8 @@
   "baths": "3",
   "sqft": 2140,
   "sub": null,
+  "ptype": "home",
+  "acres": 0.5,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20250104165936412243000000.jpg"
  },
  {
@@ -781,6 +895,8 @@
   "baths": "3",
   "sqft": 6541,
   "sub": "Conkinnon Pointe Unit 2",
+  "ptype": "home",
+  "acres": 0.84,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20250130031250270727000000.jpg"
  },
  {
@@ -797,6 +913,8 @@
   "baths": "2",
   "sqft": 1742,
   "sub": "Allenbrook",
+  "ptype": "home",
+  "acres": 0.38,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20241221164143153962000000.jpg"
  },
  {
@@ -813,7 +931,27 @@
   "baths": "3",
   "sqft": 3420,
   "sub": null,
+  "ptype": "home",
+  "acres": 11.29,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20241001143330089090000000.jpg"
+ },
+ {
+  "mls": "1292032",
+  "addr": "Oakdale Piney Rd",
+  "city": "Oakdale",
+  "zip": "37829",
+  "slug": null,
+  "date": "2025-03-20",
+  "year": "2025",
+  "range": "$150K\u2013$200K",
+  "role": "Represented seller",
+  "beds": null,
+  "baths": null,
+  "sqft": null,
+  "sub": "Camp Austin Homesites",
+  "ptype": "land",
+  "acres": 69.37,
+  "photo": "http://cdn.photos.sparkplatform.com/knx/20250305220524486419000000.jpg"
  },
  {
   "mls": "1290873",
@@ -829,6 +967,8 @@
   "baths": "2",
   "sqft": 1804,
   "sub": "Crestwood Hill Un 2 Ext",
+  "ptype": "home",
+  "acres": 0.4,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20250223201842889871000000.jpg"
  },
  {
@@ -845,6 +985,8 @@
   "baths": "2",
   "sqft": 2247,
   "sub": null,
+  "ptype": "home",
+  "acres": 0.36,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20250118030235504424000000.jpg"
  },
  {
@@ -861,6 +1003,8 @@
   "baths": "2",
   "sqft": 1904,
   "sub": null,
+  "ptype": "home",
+  "acres": 1.2,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20240916214644881795000000.jpg"
  },
  {
@@ -877,7 +1021,27 @@
   "baths": "2",
   "sqft": 1845,
   "sub": null,
+  "ptype": "home",
+  "acres": 0.5,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20240912114454284129000000.jpg"
+ },
+ {
+  "mls": "1282872",
+  "addr": "1520 S Odell Rd",
+  "city": "Maryville",
+  "zip": "37801",
+  "slug": "maryville",
+  "date": "2025-02-13",
+  "year": "2025",
+  "range": "Under $100K",
+  "role": "Represented seller",
+  "beds": null,
+  "baths": null,
+  "sqft": null,
+  "sub": null,
+  "ptype": "land",
+  "acres": 0.13,
+  "photo": "http://cdn.photos.sparkplatform.com/knx/20241118170849091231000000.jpg"
  },
  {
   "mls": "1277484",
@@ -893,6 +1057,8 @@
   "baths": "2",
   "sqft": 1828,
   "sub": "Thompson Estates",
+  "ptype": "home",
+  "acres": 0.62,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20240924180539306701000000.jpg"
  },
  {
@@ -909,6 +1075,8 @@
   "baths": "2",
   "sqft": 1176,
   "sub": "Westwood Add",
+  "ptype": "home",
+  "acres": 0.23,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20241203180122863720000000.jpg"
  },
  {
@@ -925,7 +1093,27 @@
   "baths": "2",
   "sqft": 1900,
   "sub": "Carollwood Sub",
+  "ptype": "home",
+  "acres": 0.34,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20241207174432511667000000.jpg"
+ },
+ {
+  "mls": "1281895",
+  "addr": "0 Bertie Rand St",
+  "city": "Knoxville",
+  "zip": "37920",
+  "slug": "south-knoxville",
+  "date": "2024-12-20",
+  "year": "2024",
+  "range": "Under $100K",
+  "role": "Represented seller",
+  "beds": null,
+  "baths": null,
+  "sqft": null,
+  "sub": null,
+  "ptype": "land",
+  "acres": 0.16,
+  "photo": "http://cdn.photos.sparkplatform.com/knx/20241107221414669819000000.jpg"
  },
  {
   "mls": "1279751",
@@ -941,6 +1129,8 @@
   "baths": "2",
   "sqft": 1644,
   "sub": "West Adair Hgts Sec 4",
+  "ptype": "home",
+  "acres": 0.41,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20241017203109921413000000.jpg"
  },
  {
@@ -957,6 +1147,8 @@
   "baths": "3",
   "sqft": 3564,
   "sub": "David Seiber",
+  "ptype": "home",
+  "acres": 8.05,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20240914161928310178000000.jpg"
  },
  {
@@ -973,7 +1165,45 @@
   "baths": "2",
   "sqft": 1047,
   "sub": "Belcaro Unit 2",
+  "ptype": "home",
+  "acres": 0.47,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20241018213256295678000000.jpg"
+ },
+ {
+  "mls": "1270358",
+  "addr": "Scenic View Lane",
+  "city": "Rockwood",
+  "zip": "37854",
+  "slug": null,
+  "date": "2024-12-11",
+  "year": "2024",
+  "range": "Under $100K",
+  "role": "Represented buyer",
+  "beds": null,
+  "baths": null,
+  "sqft": null,
+  "sub": "The Docks At Caney Creek Phase 2B",
+  "ptype": "land",
+  "acres": 0.49,
+  "photo": "http://cdn.photos.sparkplatform.com/knx/20240721024217622607000000.jpg"
+ },
+ {
+  "mls": "1270198",
+  "addr": "654 Ridge Rd",
+  "city": "Maynardville",
+  "zip": "37807",
+  "slug": "maynardville",
+  "date": "2024-11-15",
+  "year": "2024",
+  "range": "$300K\u2013$350K",
+  "role": "Represented buyer",
+  "beds": null,
+  "baths": null,
+  "sqft": null,
+  "sub": null,
+  "ptype": "land",
+  "acres": 17.42,
+  "photo": "http://cdn.photos.sparkplatform.com/knx/20240719143945684461000000.jpg"
  },
  {
   "mls": "1278422",
@@ -989,6 +1219,8 @@
   "baths": "2",
   "sqft": 1312,
   "sub": "T D DOSSETT",
+  "ptype": "home",
+  "acres": 1.1,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20241004003405420439000000.jpg"
  },
  {
@@ -1005,6 +1237,8 @@
   "baths": "2",
   "sqft": 2003,
   "sub": "Autumn Walk",
+  "ptype": "home",
+  "acres": 0.16,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20240715022937850192000000.jpg"
  },
  {
@@ -1021,6 +1255,8 @@
   "baths": "2",
   "sqft": 1504,
   "sub": null,
+  "ptype": "home",
+  "acres": 6.11,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20240815003819392222000000.jpg"
  },
  {
@@ -1037,6 +1273,8 @@
   "baths": "2",
   "sqft": 1480,
   "sub": "The Preserve",
+  "ptype": "home",
+  "acres": 0.11,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20240907184051550832000000.jpg"
  },
  {
@@ -1053,6 +1291,8 @@
   "baths": "1",
   "sqft": 1222,
   "sub": null,
+  "ptype": "home",
+  "acres": 0.17,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20241002001158503768000000.jpg"
  },
  {
@@ -1069,6 +1309,8 @@
   "baths": "1",
   "sqft": 1604,
   "sub": "6Th Add",
+  "ptype": "home",
+  "acres": 0.35,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20240919131815398020000000.jpg"
  },
  {
@@ -1085,6 +1327,8 @@
   "baths": "1",
   "sqft": 960,
   "sub": null,
+  "ptype": "home",
+  "acres": 0.41,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20240908013319397311000000.jpg"
  },
  {
@@ -1101,6 +1345,8 @@
   "baths": "1",
   "sqft": 1595,
   "sub": null,
+  "ptype": "home",
+  "acres": 1.05,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20240824214135797621000000.jpg"
  },
  {
@@ -1117,6 +1363,8 @@
   "baths": "2",
   "sqft": 1264,
   "sub": null,
+  "ptype": "home",
+  "acres": 1.32,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20240725215546698627000000.jpg"
  },
  {
@@ -1133,6 +1381,8 @@
   "baths": "2",
   "sqft": 1632,
   "sub": "Galbraith Sch Hgts",
+  "ptype": "home",
+  "acres": 0.15,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20240726205851012118000000.jpg"
  },
  {
@@ -1149,6 +1399,8 @@
   "baths": "3",
   "sqft": 3410,
   "sub": "Greenbrook Unit 5",
+  "ptype": "home",
+  "acres": 0.01,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20240519135154500428000000.jpg"
  },
  {
@@ -1165,6 +1417,8 @@
   "baths": "2",
   "sqft": 1304,
   "sub": null,
+  "ptype": "home",
+  "acres": 0.59,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20240629224513394675000000.jpg"
  },
  {
@@ -1181,6 +1435,8 @@
   "baths": "2",
   "sqft": 1668,
   "sub": null,
+  "ptype": "home",
+  "acres": 0.2,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20240402140921455294000000.jpg"
  },
  {
@@ -1197,6 +1453,8 @@
   "baths": "2",
   "sqft": 1188,
   "sub": null,
+  "ptype": "home",
+  "acres": 24.8,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20240610165908031574000000.jpg"
  },
  {
@@ -1213,6 +1471,8 @@
   "baths": "2",
   "sqft": 2080,
   "sub": "Hatties Place S/D Unit 2",
+  "ptype": "home",
+  "acres": 0.19,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20240619005644503226000000.jpg"
  },
  {
@@ -1229,6 +1489,8 @@
   "baths": "3",
   "sqft": 2737,
   "sub": "Lake Hills Unit 3",
+  "ptype": "home",
+  "acres": 0.75,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20240429193656454022000000.jpg"
  },
  {
@@ -1245,6 +1507,8 @@
   "baths": "2",
   "sqft": 1960,
   "sub": null,
+  "ptype": "home",
+  "acres": 14.0,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20240608204049805696000000.jpg"
  },
  {
@@ -1261,6 +1525,8 @@
   "baths": "2",
   "sqft": 1476,
   "sub": null,
+  "ptype": "home",
+  "acres": 0.26,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20240701210204669742000000.jpg"
  },
  {
@@ -1277,7 +1543,27 @@
   "baths": "2",
   "sqft": 1778,
   "sub": "Blakewood",
+  "ptype": "home",
+  "acres": 0.01,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20240406000203191365000000.jpg"
+ },
+ {
+  "mls": "1235852",
+  "addr": "Lot 24 Indian Shadows Drive",
+  "city": "Maryville",
+  "zip": "37801",
+  "slug": "maryville",
+  "date": "2024-07-15",
+  "year": "2024",
+  "range": "Under $100K",
+  "role": "Represented seller",
+  "beds": null,
+  "baths": null,
+  "sqft": null,
+  "sub": "Harbour Pl On Lake Tellico",
+  "ptype": "land",
+  "acres": 0.75,
+  "photo": "http://cdn.photos.sparkplatform.com/knx/20230825105810995418000000.jpg"
  },
  {
   "mls": "1262359",
@@ -1293,6 +1579,8 @@
   "baths": "3",
   "sqft": 2295,
   "sub": "Lovell Cove Subdivision",
+  "ptype": "home",
+  "acres": 0.32,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20240509222759800576000000.jpg"
  },
  {
@@ -1309,6 +1597,8 @@
   "baths": "3",
   "sqft": 2980,
   "sub": "Creek Bend Farms S/D Unit 7",
+  "ptype": "home",
+  "acres": 0.01,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20240426000614380240000000.jpg"
  },
  {
@@ -1325,6 +1615,8 @@
   "baths": "2",
   "sqft": 1103,
   "sub": "Westbrooke",
+  "ptype": "home",
+  "acres": 0.1,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20240507193150498491000000.jpg"
  },
  {
@@ -1341,6 +1633,8 @@
   "baths": "3",
   "sqft": 2165,
   "sub": "Colonial Village",
+  "ptype": "home",
+  "acres": 0.37,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20240524175907088454000000.jpg"
  },
  {
@@ -1357,6 +1651,8 @@
   "baths": "2",
   "sqft": 1196,
   "sub": "Ho-Co-Ta-Ke Sub",
+  "ptype": "home",
+  "acres": 0.01,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20240420160346598609000000.jpg"
  },
  {
@@ -1373,6 +1669,8 @@
   "baths": "3",
   "sqft": 2099,
   "sub": null,
+  "ptype": "home",
+  "acres": 0.25,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20240406192845456766000000.jpg"
  },
  {
@@ -1389,7 +1687,27 @@
   "baths": "3",
   "sqft": 1440,
   "sub": null,
+  "ptype": "home",
+  "acres": 7.74,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20240415171435105029000000.jpg"
+ },
+ {
+  "mls": "1224994",
+  "addr": "Sled Creek Rd",
+  "city": "Duff",
+  "zip": "37729",
+  "slug": null,
+  "date": "2024-05-15",
+  "year": "2024",
+  "range": "Under $100K",
+  "role": "Represented seller",
+  "beds": null,
+  "baths": null,
+  "sqft": null,
+  "sub": null,
+  "ptype": "land",
+  "acres": 10.7,
+  "photo": "http://cdn.photos.sparkplatform.com/knx/20230705144921301781000000.jpg"
  },
  {
   "mls": "1258960",
@@ -1405,7 +1723,27 @@
   "baths": "1",
   "sqft": 960,
   "sub": "Murphy Hills",
+  "ptype": "home",
+  "acres": 0.3,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20240412131745128141000000.jpg"
+ },
+ {
+  "mls": "1235851",
+  "addr": "Lot 25 Indian Shadows Drive",
+  "city": "Maryville",
+  "zip": "37801",
+  "slug": "maryville",
+  "date": "2024-05-10",
+  "year": "2024",
+  "range": "Under $100K",
+  "role": "Both sides",
+  "beds": null,
+  "baths": null,
+  "sqft": null,
+  "sub": "Harbour Pl On Lake Tellico",
+  "ptype": "land",
+  "acres": 0.71,
+  "photo": "http://cdn.photos.sparkplatform.com/knx/20230825105725191548000000.jpg"
  },
  {
   "mls": "1250729",
@@ -1421,6 +1759,8 @@
   "baths": "2",
   "sqft": 2128,
   "sub": "Carter Cove",
+  "ptype": "home",
+  "acres": 0.01,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20240124230300008042000000.jpg"
  },
  {
@@ -1437,6 +1777,8 @@
   "baths": "2",
   "sqft": 1350,
   "sub": null,
+  "ptype": "home",
+  "acres": 16.4,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20240108144405857121000000.jpg"
  },
  {
@@ -1453,6 +1795,8 @@
   "baths": "1",
   "sqft": 580,
   "sub": "Kingston Place Condo Unit A107",
+  "ptype": "home",
+  "acres": null,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20240305044321706398000000.jpg"
  },
  {
@@ -1469,6 +1813,8 @@
   "baths": "2",
   "sqft": 1764,
   "sub": "Dorchester",
+  "ptype": "home",
+  "acres": 0.18,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20231130153050465835000000.jpg"
  },
  {
@@ -1485,7 +1831,27 @@
   "baths": "2",
   "sqft": 1047,
   "sub": "Belcaro Unit 2",
+  "ptype": "home",
+  "acres": 0.47,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20240207224646110951000000.jpg"
+ },
+ {
+  "mls": "1251559",
+  "addr": "0 Bertie Rand St",
+  "city": "Knoxville",
+  "zip": "37920",
+  "slug": "south-knoxville",
+  "date": "2024-03-20",
+  "year": "2024",
+  "range": "Under $100K",
+  "role": "Represented buyer",
+  "beds": null,
+  "baths": null,
+  "sqft": null,
+  "sub": null,
+  "ptype": "land",
+  "acres": 0.13,
+  "photo": "http://cdn.photos.sparkplatform.com/knx/20240202162638115168000000.jpg"
  },
  {
   "mls": "1246920",
@@ -1501,6 +1867,8 @@
   "baths": "1",
   "sqft": 1162,
   "sub": null,
+  "ptype": "home",
+  "acres": 0.18,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20231130032309338162000000.jpg"
  },
  {
@@ -1517,6 +1885,8 @@
   "baths": "3",
   "sqft": 2800,
   "sub": "Twin Oaks 3 Resub",
+  "ptype": "home",
+  "acres": 0.54,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20231205152028045296000000.jpg"
  },
  {
@@ -1533,6 +1903,8 @@
   "baths": "2",
   "sqft": 1753,
   "sub": "Emory Vista Ph One",
+  "ptype": "home",
+  "acres": 0.25,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20230902214156395688000000.jpg"
  },
  {
@@ -1549,6 +1921,8 @@
   "baths": "1",
   "sqft": 960,
   "sub": "Prop Of Freddie R Brasfield",
+  "ptype": "home",
+  "acres": 0.18,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20240218005715883160000000.jpg"
  },
  {
@@ -1565,6 +1939,8 @@
   "baths": "3",
   "sqft": 3050,
   "sub": "Belltown",
+  "ptype": "home",
+  "acres": 0.21,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20240312162508327013000000.jpg"
  },
  {
@@ -1581,6 +1957,8 @@
   "baths": "2",
   "sqft": 1680,
   "sub": null,
+  "ptype": "home",
+  "acres": 37.9,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20231130005152020175000000.jpg"
  },
  {
@@ -1597,6 +1975,8 @@
   "baths": "2",
   "sqft": 2885,
   "sub": "The Preserve",
+  "ptype": "home",
+  "acres": 0.22,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20240125213228993060000000.jpg"
  },
  {
@@ -1613,6 +1993,8 @@
   "baths": "3",
   "sqft": 1942,
   "sub": "Concord Wood Unit #2",
+  "ptype": "home",
+  "acres": 0.33,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20231012205536910580000000.jpg"
  },
  {
@@ -1629,7 +2011,27 @@
   "baths": "3",
   "sqft": 1565,
   "sub": null,
+  "ptype": "home",
+  "acres": 0.19,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20230926160204491002000000.jpg"
+ },
+ {
+  "mls": "1246458",
+  "addr": "372 Longmire Rd",
+  "city": "Clinton",
+  "zip": "37716",
+  "slug": "clinton",
+  "date": "2023-12-18",
+  "year": "2023",
+  "range": "$100K\u2013$150K",
+  "role": "Represented buyer",
+  "beds": null,
+  "baths": null,
+  "sqft": 1344,
+  "sub": "Sourwood Heights",
+  "ptype": "multi",
+  "acres": null,
+  "photo": "http://cdn.photos.sparkplatform.com/knx/20231121175906467724000000.jpg"
  },
  {
   "mls": "1243601",
@@ -1645,6 +2047,8 @@
   "baths": "3",
   "sqft": 2463,
   "sub": "Brentwood 5",
+  "ptype": "home",
+  "acres": 0.42,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20231022233032148817000000.jpg"
  },
  {
@@ -1661,6 +2065,8 @@
   "baths": "1",
   "sqft": 1210,
   "sub": null,
+  "ptype": "home",
+  "acres": 0.47,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20230925161552624820000000.jpg"
  },
  {
@@ -1677,6 +2083,8 @@
   "baths": "2",
   "sqft": 2164,
   "sub": "The Summit",
+  "ptype": "home",
+  "acres": 0.02,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20230818115817971497000000.jpg"
  },
  {
@@ -1693,6 +2101,8 @@
   "baths": "2",
   "sqft": 2050,
   "sub": "Emory Vista",
+  "ptype": "home",
+  "acres": 0.25,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20230811232220231132000000.jpg"
  },
  {
@@ -1709,6 +2119,8 @@
   "baths": "1",
   "sqft": 1102,
   "sub": "Mietors Add 2",
+  "ptype": "home",
+  "acres": 0.3,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20231014213923791866000000.jpg"
  },
  {
@@ -1725,7 +2137,27 @@
   "baths": "3",
   "sqft": 1909,
   "sub": "Wind Chase II",
+  "ptype": "home",
+  "acres": 0.33,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20230902211010148027000000.jpg"
+ },
+ {
+  "mls": "1242716",
+  "addr": "Lot 16 Bernhurst Drive",
+  "city": "Knoxville",
+  "zip": "37918",
+  "slug": "halls",
+  "date": "2023-10-31",
+  "year": "2023",
+  "range": "Under $100K",
+  "role": "Represented buyer",
+  "beds": null,
+  "baths": null,
+  "sqft": null,
+  "sub": "Fountain City Co",
+  "ptype": "land",
+  "acres": 0.13,
+  "photo": "http://cdn.photos.sparkplatform.com/knx/20231014142916720966000000.jpg"
  },
  {
   "mls": "1239776",
@@ -1741,7 +2173,27 @@
   "baths": "4",
   "sqft": 4446,
   "sub": "Westminster Ridge",
+  "ptype": "home",
+  "acres": 1.33,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20230916182036543205000000.jpg"
+ },
+ {
+  "mls": "1241563",
+  "addr": "102 Brandau Drive",
+  "city": "Knoxville",
+  "zip": "37920",
+  "slug": "south-knoxville",
+  "date": "2023-10-20",
+  "year": "2023",
+  "range": "Under $100K",
+  "role": "Both sides",
+  "beds": null,
+  "baths": null,
+  "sqft": null,
+  "sub": "Lake Forrest Add 2",
+  "ptype": "land",
+  "acres": 0.69,
+  "photo": "http://cdn.photos.sparkplatform.com/knx/20231003222331567855000000.jpg"
  },
  {
   "mls": "1234873",
@@ -1757,6 +2209,8 @@
   "baths": "1",
   "sqft": 742,
   "sub": null,
+  "ptype": "home",
+  "acres": 2.0,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20230729211901159863000000.jpg"
  },
  {
@@ -1773,6 +2227,8 @@
   "baths": "2",
   "sqft": 1440,
   "sub": null,
+  "ptype": "home",
+  "acres": 1.04,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20230714144137492536000000.jpg"
  },
  {
@@ -1789,6 +2245,8 @@
   "baths": "1",
   "sqft": 1487,
   "sub": null,
+  "ptype": "home",
+  "acres": 0.45,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20230821180654247766000000.jpg"
  },
  {
@@ -1805,6 +2263,8 @@
   "baths": "3",
   "sqft": 4289,
   "sub": "Harbour Pl On Lake Tellico",
+  "ptype": "home",
+  "acres": 1.19,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20230805221603782363000000.jpg"
  },
  {
@@ -1821,6 +2281,8 @@
   "baths": "2",
   "sqft": 1000,
   "sub": "Maple Chase Condos",
+  "ptype": "home",
+  "acres": null,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20230814002749127561000000.jpg"
  },
  {
@@ -1837,6 +2299,8 @@
   "baths": "2",
   "sqft": 1144,
   "sub": null,
+  "ptype": "home",
+  "acres": 0.16,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20230913201115095082000000.jpg"
  },
  {
@@ -1853,6 +2317,8 @@
   "baths": "2",
   "sqft": 1092,
   "sub": "Kennon Park",
+  "ptype": "home",
+  "acres": 0.48,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20230510134259160824000000.jpg"
  },
  {
@@ -1869,6 +2335,8 @@
   "baths": "3",
   "sqft": 3346,
   "sub": "Emory Valley",
+  "ptype": "home",
+  "acres": 1.05,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20230708133849092058000000.jpg"
  },
  {
@@ -1885,7 +2353,27 @@
   "baths": "3",
   "sqft": 3160,
   "sub": "Hickory Crest S/D Phase 2",
+  "ptype": "home",
+  "acres": 0.58,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20230621211511138768000000.jpg"
+ },
+ {
+  "mls": "1233725",
+  "addr": "0 Hiawassee Ave",
+  "city": "Knoxville",
+  "zip": "37917",
+  "slug": "north-knoxville",
+  "date": "2023-08-30",
+  "year": "2023",
+  "range": "Under $100K",
+  "role": "Represented buyer",
+  "beds": null,
+  "baths": null,
+  "sqft": null,
+  "sub": "Monticello Add Pt 6",
+  "ptype": "land",
+  "acres": 0.21,
+  "photo": "http://cdn.photos.sparkplatform.com/knx/20230714194630288264000000.jpg"
  },
  {
   "mls": "1231928",
@@ -1901,6 +2389,8 @@
   "baths": "2",
   "sqft": 2052,
   "sub": null,
+  "ptype": "home",
+  "acres": 1.0,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20230630142448547011000000.jpg"
  },
  {
@@ -1917,6 +2407,8 @@
   "baths": "1",
   "sqft": 784,
   "sub": null,
+  "ptype": "home",
+  "acres": 0.7,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20230602182851083234000000.jpg"
  },
  {
@@ -1933,6 +2425,8 @@
   "baths": "2",
   "sqft": 3213,
   "sub": "Lyons Crossing Unit 4",
+  "ptype": "home",
+  "acres": 0.36,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20230524185157335653000000.jpg"
  },
  {
@@ -1949,7 +2443,27 @@
   "baths": "2",
   "sqft": 2185,
   "sub": "Hatties Place S/D Unit 3",
+  "ptype": "home",
+  "acres": 0.2,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20230504223955104631000000.jpg"
+ },
+ {
+  "mls": "1212490",
+  "addr": "0 Bert Newman Lane",
+  "city": "Knoxville",
+  "zip": "37931",
+  "slug": "karns",
+  "date": "2023-06-06",
+  "year": "2023",
+  "range": "$150K\u2013$200K",
+  "role": "Represented buyer",
+  "beds": null,
+  "baths": null,
+  "sqft": null,
+  "sub": "Martin Property",
+  "ptype": "land",
+  "acres": 8.07,
+  "photo": "http://cdn.photos.sparkplatform.com/knx/20221122215550669260000000.jpg"
  },
  {
   "mls": "1205568",
@@ -1965,6 +2479,8 @@
   "baths": "4",
   "sqft": 3266,
   "sub": "Ashwood Park Villas",
+  "ptype": "home",
+  "acres": 0.6,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20220927200438560452000000.jpg"
  },
  {
@@ -1981,6 +2497,8 @@
   "baths": "3",
   "sqft": 2970,
   "sub": "Hanley Hall",
+  "ptype": "home",
+  "acres": 0.26,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20230420202147313254000000.jpg"
  },
  {
@@ -1997,6 +2515,8 @@
   "baths": "2",
   "sqft": 1688,
   "sub": "Huntington Place",
+  "ptype": "home",
+  "acres": 0.3,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20230420144948736446000000.jpg"
  },
  {
@@ -2013,6 +2533,8 @@
   "baths": "2",
   "sqft": 1996,
   "sub": "Greenland Acres",
+  "ptype": "home",
+  "acres": 0.51,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20230410131627068906000000.jpg"
  },
  {
@@ -2029,6 +2551,8 @@
   "baths": "1",
   "sqft": 1176,
   "sub": "Ftn City Hgts",
+  "ptype": "home",
+  "acres": 0.8,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20230323180053540748000000.jpg"
  },
  {
@@ -2045,6 +2569,8 @@
   "baths": "3",
   "sqft": 2836,
   "sub": "Oak Creek",
+  "ptype": "home",
+  "acres": 0.24,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20230314192837253621000000.jpg"
  },
  {
@@ -2061,6 +2587,8 @@
   "baths": "2",
   "sqft": 1240,
   "sub": "Victorias Landing Unit 2",
+  "ptype": "home",
+  "acres": 0.2,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20230222165928236328000000.jpg"
  },
  {
@@ -2077,6 +2605,8 @@
   "baths": "2",
   "sqft": 2396,
   "sub": "Garnet Hill",
+  "ptype": "home",
+  "acres": 0.21,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20230309204620616603000000.jpg"
  },
  {
@@ -2093,6 +2623,8 @@
   "baths": "2",
   "sqft": 1800,
   "sub": null,
+  "ptype": "home",
+  "acres": 1.0,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20230303180428860427000000.jpg"
  },
  {
@@ -2109,6 +2641,8 @@
   "baths": "2",
   "sqft": 2152,
   "sub": "Crestwood Hills",
+  "ptype": "home",
+  "acres": 0.38,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20230223155814861728000000.jpg"
  },
  {
@@ -2125,6 +2659,8 @@
   "baths": "1",
   "sqft": 960,
   "sub": "Murphy Hills",
+  "ptype": "home",
+  "acres": 0.3,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20230303191204265336000000.jpg"
  },
  {
@@ -2141,6 +2677,8 @@
   "baths": "3",
   "sqft": 2913,
   "sub": "West Hills Unit 9",
+  "ptype": "home",
+  "acres": 0.52,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20230128214838349784000000.jpg"
  },
  {
@@ -2157,6 +2695,8 @@
   "baths": "3",
   "sqft": 1914,
   "sub": null,
+  "ptype": "home",
+  "acres": 0.56,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20230126014117018591000000.jpg"
  },
  {
@@ -2173,6 +2713,8 @@
   "baths": "2",
   "sqft": 1920,
   "sub": "Brickyard Hill Unit 1",
+  "ptype": "home",
+  "acres": 0.31,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20230102233241087863000000.jpg"
  },
  {
@@ -2189,6 +2731,8 @@
   "baths": "3",
   "sqft": 2277,
   "sub": "Briarwood Village",
+  "ptype": "home",
+  "acres": 0.3,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20221202014231791708000000.jpg"
  },
  {
@@ -2205,6 +2749,8 @@
   "baths": "2",
   "sqft": 1440,
   "sub": "Williams Bend",
+  "ptype": "home",
+  "acres": 1.04,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20221203010710002239000000.jpg"
  },
  {
@@ -2221,6 +2767,8 @@
   "baths": "2",
   "sqft": 1753,
   "sub": "Emory Vista Ph Two",
+  "ptype": "home",
+  "acres": 0.22,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20230104004810666777000000.jpg"
  },
  {
@@ -2237,6 +2785,8 @@
   "baths": "2",
   "sqft": 1700,
   "sub": "Chota Hills",
+  "ptype": "home",
+  "acres": 0.34,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20230111203902280936000000.jpg"
  },
  {
@@ -2253,6 +2803,8 @@
   "baths": "2",
   "sqft": 1125,
   "sub": "Nina Moore",
+  "ptype": "home",
+  "acres": 1.0,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20221027162152356520000000.jpg"
  },
  {
@@ -2269,6 +2821,8 @@
   "baths": "2",
   "sqft": 1776,
   "sub": "Overlook Estates Unit 1",
+  "ptype": "home",
+  "acres": 0.23,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20221101135000360894000000.jpg"
  },
  {
@@ -2285,6 +2839,8 @@
   "baths": "1",
   "sqft": 864,
   "sub": "Oakland Park",
+  "ptype": "home",
+  "acres": 0.23,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20221005174428176744000000.jpg"
  },
  {
@@ -2301,6 +2857,8 @@
   "baths": "2",
   "sqft": 1878,
   "sub": null,
+  "ptype": "home",
+  "acres": 0.79,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20220827195601133865000000.jpg"
  },
  {
@@ -2317,6 +2875,8 @@
   "baths": "3",
   "sqft": 3594,
   "sub": "Colonial Village",
+  "ptype": "home",
+  "acres": 0.58,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20221027195440957606000000.jpg"
  },
  {
@@ -2333,6 +2893,8 @@
   "baths": "2",
   "sqft": 3017,
   "sub": "Fort West Unit I",
+  "ptype": "home",
+  "acres": 0.67,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20220829193901887683000000.jpg"
  },
  {
@@ -2349,6 +2911,8 @@
   "baths": "2",
   "sqft": 1455,
   "sub": "Harper Village",
+  "ptype": "home",
+  "acres": 0.01,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20220916155859304534000000.jpg"
  },
  {
@@ -2365,6 +2929,8 @@
   "baths": "2",
   "sqft": 2058,
   "sub": "Summer Hall unit 3",
+  "ptype": "home",
+  "acres": 0.01,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20221013205538909472000000.jpg"
  },
  {
@@ -2381,6 +2947,8 @@
   "baths": "2",
   "sqft": 1386,
   "sub": "Lonsdale",
+  "ptype": "home",
+  "acres": 0.21,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20220909171436536804000000.jpg"
  },
  {
@@ -2397,6 +2965,8 @@
   "baths": "3",
   "sqft": 2692,
   "sub": "Greenbrook Unit 1",
+  "ptype": "home",
+  "acres": 0.26,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20220609010403385086000000.jpg"
  },
  {
@@ -2413,6 +2983,8 @@
   "baths": "2",
   "sqft": 1145,
   "sub": "Kay Springs Sec II",
+  "ptype": "home",
+  "acres": 0.23,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20220803180117953615000000.jpg"
  },
  {
@@ -2429,7 +3001,27 @@
   "baths": "2",
   "sqft": 2231,
   "sub": "Lyons Crossing Unit 2",
+  "ptype": "home",
+  "acres": 0.01,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20220715145420092282000000.jpg"
+ },
+ {
+  "mls": "1196567",
+  "addr": "1400 Olivia Circle",
+  "city": "Loudon",
+  "zip": "37774",
+  "slug": "lenoir-city",
+  "date": "2022-08-15",
+  "year": "2022",
+  "range": "Under $100K",
+  "role": "Represented buyer",
+  "beds": null,
+  "baths": null,
+  "sqft": null,
+  "sub": "Sweetwater Creek Ph Ii",
+  "ptype": "land",
+  "acres": 0.19,
+  "photo": "http://cdn.photos.sparkplatform.com/knx/20220623190317553359000000.jpg"
  },
  {
   "mls": "1186417",
@@ -2445,6 +3037,8 @@
   "baths": "2",
   "sqft": 3070,
   "sub": "Wuthering Hts",
+  "ptype": "home",
+  "acres": 7.86,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20220405143539606185000000.jpg"
  },
  {
@@ -2461,6 +3055,8 @@
   "baths": "2",
   "sqft": 1288,
   "sub": "Rarity Bay",
+  "ptype": "home",
+  "acres": 0.01,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20220622223120265344000000.jpg"
  },
  {
@@ -2477,6 +3073,8 @@
   "baths": "1",
   "sqft": 1000,
   "sub": null,
+  "ptype": "home",
+  "acres": 0.4,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20220708030514287787000000.jpg"
  },
  {
@@ -2493,6 +3091,8 @@
   "baths": "2",
   "sqft": 2846,
   "sub": "Greenbrook",
+  "ptype": "home",
+  "acres": 0.22,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20220517171701161997000000.jpg"
  },
  {
@@ -2509,6 +3109,8 @@
   "baths": "3",
   "sqft": 2618,
   "sub": "Greene Meadows",
+  "ptype": "home",
+  "acres": 0.15,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20220320170521794103000000.jpg"
  },
  {
@@ -2525,6 +3127,8 @@
   "baths": "2",
   "sqft": 966,
   "sub": "Devonshire",
+  "ptype": "home",
+  "acres": 0.08,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20220513142230001579000000.jpg"
  },
  {
@@ -2541,6 +3145,8 @@
   "baths": "2",
   "sqft": 1322,
   "sub": null,
+  "ptype": "home",
+  "acres": 0.51,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20220507165904100387000000.jpg"
  },
  {
@@ -2557,6 +3163,8 @@
   "baths": "2",
   "sqft": 2024,
   "sub": "Windermere S/D Unit 2",
+  "ptype": "home",
+  "acres": 0.17,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20220420160605074420000000.jpg"
  },
  {
@@ -2573,6 +3181,8 @@
   "baths": "2",
   "sqft": 1768,
   "sub": null,
+  "ptype": "home",
+  "acres": 0.57,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20220421004221881854000000.jpg"
  },
  {
@@ -2589,6 +3199,8 @@
   "baths": "2",
   "sqft": 2085,
   "sub": "Hattie's Place",
+  "ptype": "home",
+  "acres": 0.1,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20220317153222756234000000.jpg"
  },
  {
@@ -2605,6 +3217,8 @@
   "baths": "3",
   "sqft": 3354,
   "sub": "Laurel Ridge Phase II",
+  "ptype": "home",
+  "acres": 0.22,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20220118132630846365000000.jpg"
  },
  {
@@ -2621,6 +3235,8 @@
   "baths": "2",
   "sqft": 2798,
   "sub": "Harbor Cove At Timberlake Unit 3",
+  "ptype": "home",
+  "acres": 0.38,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20220318153929012154000000.jpg"
  },
  {
@@ -2637,6 +3253,8 @@
   "baths": "1",
   "sqft": 684,
   "sub": "Plaza Park",
+  "ptype": "home",
+  "acres": 0.27,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20220314125557920910000000.jpg"
  },
  {
@@ -2653,6 +3271,8 @@
   "baths": "2",
   "sqft": 1620,
   "sub": "Hidden Ridge Ph 11",
+  "ptype": "home",
+  "acres": 1.2,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20220212030605411092000000.jpg"
  },
  {
@@ -2669,6 +3289,8 @@
   "baths": "1",
   "sqft": 1188,
   "sub": "Lazy Acres",
+  "ptype": "home",
+  "acres": 0.01,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20220301211049283004000000.jpg"
  },
  {
@@ -2685,6 +3307,8 @@
   "baths": "1",
   "sqft": 952,
   "sub": "Scotts Oak Hill Add Pts 216,217",
+  "ptype": "home",
+  "acres": 0.17,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20220307161701932509000000.jpg"
  },
  {
@@ -2701,6 +3325,8 @@
   "baths": "2",
   "sqft": 1344,
   "sub": null,
+  "ptype": "home",
+  "acres": 0.56,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20220302205252242564000000.jpg"
  },
  {
@@ -2717,6 +3343,8 @@
   "baths": "2",
   "sqft": 1440,
   "sub": null,
+  "ptype": "home",
+  "acres": 1.0,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20220112025122142463000000.jpg"
  },
  {
@@ -2733,6 +3361,8 @@
   "baths": "4",
   "sqft": 3324,
   "sub": "Rockwell Farm Unit 5",
+  "ptype": "home",
+  "acres": 0.28,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20211225193500473051000000.jpg"
  },
  {
@@ -2749,6 +3379,8 @@
   "baths": "2",
   "sqft": 1225,
   "sub": "Colonial Village",
+  "ptype": "home",
+  "acres": 0.27,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20211224162419867763000000.jpg"
  },
  {
@@ -2765,6 +3397,8 @@
   "baths": "2",
   "sqft": 1176,
   "sub": "church ave",
+  "ptype": "home",
+  "acres": 0.44,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20211014025152000891000000.jpg"
  },
  {
@@ -2781,6 +3415,8 @@
   "baths": "2",
   "sqft": 1718,
   "sub": "Seven Springs",
+  "ptype": "home",
+  "acres": 0.22,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20211115175311841981000000.jpg"
  },
  {
@@ -2797,6 +3433,8 @@
   "baths": "3",
   "sqft": 2190,
   "sub": "Cherokee Landing Phase 3",
+  "ptype": "home",
+  "acres": 0.17,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20211029134825655892000000.jpg"
  },
  {
@@ -2813,6 +3451,8 @@
   "baths": "3",
   "sqft": 3300,
   "sub": "Rockcastle Phi",
+  "ptype": "home",
+  "acres": 18.44,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20211104191844854025000000.jpg"
  },
  {
@@ -2829,6 +3469,8 @@
   "baths": "2",
   "sqft": 2400,
   "sub": null,
+  "ptype": "home",
+  "acres": 3.2,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20211014184057431552000000.jpg"
  },
  {
@@ -2845,6 +3487,8 @@
   "baths": "2",
   "sqft": 2176,
   "sub": "Allison Cove S/D",
+  "ptype": "home",
+  "acres": 0.81,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20211105164235876859000000.jpg"
  },
  {
@@ -2861,6 +3505,8 @@
   "baths": "4",
   "sqft": 4018,
   "sub": "Frank & Margaret Fennell",
+  "ptype": "home",
+  "acres": 3.15,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20211001020901809498000000.jpg"
  },
  {
@@ -2877,6 +3523,8 @@
   "baths": "2",
   "sqft": 1307,
   "sub": "Collins S/D",
+  "ptype": "home",
+  "acres": 0.23,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20210729200921907843000000.jpg"
  },
  {
@@ -2893,6 +3541,8 @@
   "baths": "3",
   "sqft": 2798,
   "sub": null,
+  "ptype": "home",
+  "acres": 3.0,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20210821114429645432000000.jpg"
  },
  {
@@ -2909,6 +3559,8 @@
   "baths": "2",
   "sqft": 1324,
   "sub": "DUMPLIN CREEK VILLAGE",
+  "ptype": "home",
+  "acres": null,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20211005183614785734000000.jpg"
  },
  {
@@ -2925,6 +3577,8 @@
   "baths": "2",
   "sqft": 1910,
   "sub": "Crestwood Forest",
+  "ptype": "home",
+  "acres": 0.51,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20210927084414809907000000.jpg"
  },
  {
@@ -2941,6 +3595,8 @@
   "baths": "3",
   "sqft": 2150,
   "sub": null,
+  "ptype": "home",
+  "acres": 7.67,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20210820180007766558000000.jpg"
  },
  {
@@ -2957,6 +3613,8 @@
   "baths": "2",
   "sqft": 1815,
   "sub": "D V Meador Sec Dev",
+  "ptype": "home",
+  "acres": 0.45,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20210831213407317419000000.jpg"
  },
  {
@@ -2973,6 +3631,8 @@
   "baths": "2",
   "sqft": 3114,
   "sub": "Carter Oaks",
+  "ptype": "home",
+  "acres": 1.38,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20210901212859263833000000.jpg"
  },
  {
@@ -2989,6 +3649,8 @@
   "baths": "3",
   "sqft": 1676,
   "sub": "Ho-Co-Ta-Ke Sub",
+  "ptype": "home",
+  "acres": 0.31,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20210731133152612857000000.jpg"
  },
  {
@@ -3005,6 +3667,8 @@
   "baths": "3",
   "sqft": 3000,
   "sub": "J Herrons Place S/D",
+  "ptype": "home",
+  "acres": 2.25,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20210810172906021374000000.jpg"
  },
  {
@@ -3021,6 +3685,8 @@
   "baths": "2",
   "sqft": 2128,
   "sub": "Carter Cove",
+  "ptype": "home",
+  "acres": 0.01,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20210817131022135919000000.jpg"
  },
  {
@@ -3037,7 +3703,27 @@
   "baths": "2",
   "sqft": 1900,
   "sub": null,
+  "ptype": "home",
+  "acres": 0.27,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20210807155641094398000000.jpg"
+ },
+ {
+  "mls": "1158606",
+  "addr": "144 Angela Circle",
+  "city": "Jefferson City",
+  "zip": "37760",
+  "slug": "jefferson-city",
+  "date": "2021-09-10",
+  "year": "2021",
+  "range": "$250K\u2013$300K",
+  "role": "Represented seller",
+  "beds": null,
+  "baths": null,
+  "sqft": 3200,
+  "sub": "Berkley Court",
+  "ptype": "multi",
+  "acres": null,
+  "photo": "http://cdn.photos.sparkplatform.com/knx/20210701134437520447000000.jpg"
  },
  {
   "mls": "1156080",
@@ -3053,6 +3739,8 @@
   "baths": "2",
   "sqft": 1040,
   "sub": "South Hall",
+  "ptype": "home",
+  "acres": 0.13,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20210610162642992599000000.jpg"
  },
  {
@@ -3069,6 +3757,8 @@
   "baths": "1",
   "sqft": 1056,
   "sub": null,
+  "ptype": "home",
+  "acres": 0.65,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20210529075917977773000000.jpg"
  },
  {
@@ -3085,6 +3775,8 @@
   "baths": "2",
   "sqft": 2555,
   "sub": null,
+  "ptype": "home",
+  "acres": 0.66,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20210320225351379091000000.jpg"
  },
  {
@@ -3101,6 +3793,8 @@
   "baths": "2",
   "sqft": 1450,
   "sub": "Burchfield Heights",
+  "ptype": "home",
+  "acres": 0.86,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20210523115706447438000000.jpg"
  },
  {
@@ -3117,6 +3811,8 @@
   "baths": "2",
   "sqft": 1258,
   "sub": "Bassel",
+  "ptype": "home",
+  "acres": 0.2,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20210409141711061553000000.jpg"
  },
  {
@@ -3133,6 +3829,8 @@
   "baths": "1",
   "sqft": 1742,
   "sub": "D V Meador Sec Dev",
+  "ptype": "home",
+  "acres": 0.45,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20210623161552592901000000.jpg"
  },
  {
@@ -3149,6 +3847,8 @@
   "baths": "2",
   "sqft": 1040,
   "sub": "Lexi Landing",
+  "ptype": "home",
+  "acres": 0.25,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20210528145611469476000000.jpg"
  },
  {
@@ -3165,6 +3865,8 @@
   "baths": "1",
   "sqft": 910,
   "sub": "White",
+  "ptype": "home",
+  "acres": 0.22,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20210617113203207423000000.jpg"
  },
  {
@@ -3181,6 +3883,8 @@
   "baths": "1",
   "sqft": 448,
   "sub": "Waldens Ridge Unit 3",
+  "ptype": "home",
+  "acres": 2.2,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20210305152737969967000000.jpg"
  },
  {
@@ -3197,6 +3901,8 @@
   "baths": "2",
   "sqft": 1184,
   "sub": null,
+  "ptype": "home",
+  "acres": 0.29,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20201229174831660169000000.jpg"
  },
  {
@@ -3213,6 +3919,8 @@
   "baths": "1",
   "sqft": 1008,
   "sub": null,
+  "ptype": "home",
+  "acres": 0.76,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20210506142859101489000000.jpg"
  },
  {
@@ -3229,7 +3937,27 @@
   "baths": "2",
   "sqft": 2632,
   "sub": "Westyn Hill",
+  "ptype": "home",
+  "acres": 0.41,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20210514231726167391000000.jpg"
+ },
+ {
+  "mls": "1148823",
+  "addr": "L-156 Lakeview Dr.",
+  "city": "Sharps Chapel",
+  "zip": "37866",
+  "slug": null,
+  "date": "2021-05-28",
+  "year": "2021",
+  "range": "Under $100K",
+  "role": "Represented buyer",
+  "beds": null,
+  "baths": null,
+  "sqft": null,
+  "sub": "Norris Shores",
+  "ptype": "land",
+  "acres": 2.2,
+  "photo": "http://cdn.photos.sparkplatform.com/knx/20210412103633524427000000.jpg"
  },
  {
   "mls": "1147203",
@@ -3245,6 +3973,8 @@
   "baths": "1",
   "sqft": 1322,
   "sub": null,
+  "ptype": "home",
+  "acres": 0.51,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20210401123306648250000000.jpg"
  },
  {
@@ -3261,6 +3991,8 @@
   "baths": "2",
   "sqft": 1196,
   "sub": "Ho-Co-Ta-Ke Sub",
+  "ptype": "home",
+  "acres": 0.32,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20200820200618579783000000.jpg"
  },
  {
@@ -3277,6 +4009,8 @@
   "baths": "2",
   "sqft": 927,
   "sub": "Wood Song Subdivision Unit 1",
+  "ptype": "home",
+  "acres": null,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20210326145547721542000000.jpg"
  },
  {
@@ -3293,6 +4027,8 @@
   "baths": "2",
   "sqft": 1000,
   "sub": "Maple Chase Condos Unit 62E",
+  "ptype": "home",
+  "acres": null,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20210322141528373001000000.jpg"
  },
  {
@@ -3309,6 +4045,8 @@
   "baths": "3",
   "sqft": 2400,
   "sub": null,
+  "ptype": "home",
+  "acres": 3.0,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20210301202238578184000000.jpg"
  },
  {
@@ -3325,7 +4063,45 @@
   "baths": "2",
   "sqft": 1188,
   "sub": "Woodmont Addition",
+  "ptype": "home",
+  "acres": null,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20210129144938508839000000.jpg"
+ },
+ {
+  "mls": "1139091",
+  "addr": "144 Paint Rock Tr",
+  "city": "Philadelphia",
+  "zip": "37846",
+  "slug": null,
+  "date": "2021-04-01",
+  "year": "2021",
+  "range": "Under $100K",
+  "role": "Represented buyer",
+  "beds": null,
+  "baths": null,
+  "sqft": null,
+  "sub": "Zam S/D",
+  "ptype": "land",
+  "acres": 5.0,
+  "photo": "http://cdn.photos.sparkplatform.com/knx/20210105193757922746000000.jpg"
+ },
+ {
+  "mls": "1139086",
+  "addr": "112 Paint Rock Tr",
+  "city": "Philadelphia",
+  "zip": "37846",
+  "slug": null,
+  "date": "2021-04-01",
+  "year": "2021",
+  "range": "Under $100K",
+  "role": "Represented buyer",
+  "beds": null,
+  "baths": null,
+  "sqft": null,
+  "sub": null,
+  "ptype": "land",
+  "acres": 5.09,
+  "photo": "http://cdn.photos.sparkplatform.com/knx/20210101214115996283000000.jpg"
  },
  {
   "mls": "1142554",
@@ -3341,7 +4117,27 @@
   "baths": "2",
   "sqft": 2344,
   "sub": "Westbury",
+  "ptype": "home",
+  "acres": null,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20210210213417196998000000.jpg"
+ },
+ {
+  "mls": "1114623",
+  "addr": "Bales Rd",
+  "city": "Knoxville",
+  "zip": "37914",
+  "slug": "knoxville",
+  "date": "2021-03-12",
+  "year": "2021",
+  "range": "Under $100K",
+  "role": "Represented buyer",
+  "beds": null,
+  "baths": null,
+  "sqft": null,
+  "sub": "Thomas Davis Prop",
+  "ptype": "land",
+  "acres": 5.05,
+  "photo": "http://cdn.photos.sparkplatform.com/knx/20200424182414691748000000.jpg"
  },
  {
   "mls": "1133732",
@@ -3357,6 +4153,8 @@
   "baths": "2",
   "sqft": 3166,
   "sub": "Meadows of Millertown Unit 2",
+  "ptype": "home",
+  "acres": null,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20201024124110311101000000.jpg"
  },
  {
@@ -3373,6 +4171,8 @@
   "baths": "2",
   "sqft": 2618,
   "sub": "Bexhill",
+  "ptype": "home",
+  "acres": null,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20210123165225102314000000.jpg"
  },
  {
@@ -3389,6 +4189,8 @@
   "baths": "2",
   "sqft": 1307,
   "sub": "Colonial Village",
+  "ptype": "home",
+  "acres": null,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20201102194330155713000000.jpg"
  },
  {
@@ -3405,6 +4207,8 @@
   "baths": "1",
   "sqft": 1200,
   "sub": "Harmony Heights",
+  "ptype": "home",
+  "acres": 0.23,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20201012210201738934000000.jpg"
  },
  {
@@ -3421,6 +4225,8 @@
   "baths": "3",
   "sqft": 2970,
   "sub": null,
+  "ptype": "home",
+  "acres": null,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20200228183827815209000000.jpg"
  },
  {
@@ -3437,6 +4243,8 @@
   "baths": "2",
   "sqft": 2180,
   "sub": "Hatties Place S/D Unit 2",
+  "ptype": "home",
+  "acres": null,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20200731155429320499000000.jpg"
  },
  {
@@ -3453,6 +4261,8 @@
   "baths": "2",
   "sqft": 3200,
   "sub": "Hickory Creek Farms",
+  "ptype": "home",
+  "acres": null,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20200304214633314820000000.jpg"
  },
  {
@@ -3469,6 +4279,8 @@
   "baths": "1",
   "sqft": 756,
   "sub": null,
+  "ptype": "home",
+  "acres": 1.7,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20200810014020731956000000.jpg"
  },
  {
@@ -3485,6 +4297,8 @@
   "baths": "2",
   "sqft": 1232,
   "sub": null,
+  "ptype": "home",
+  "acres": 0.5,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20200627020656472710000000.jpg"
  },
  {
@@ -3501,6 +4315,8 @@
   "baths": "2",
   "sqft": 2632,
   "sub": "Westlyn Hill",
+  "ptype": "home",
+  "acres": 0.41,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20200529185327130426000000.jpg"
  },
  {
@@ -3517,7 +4333,27 @@
   "baths": "3",
   "sqft": 3618,
   "sub": "Concord Hills Unit 4",
+  "ptype": "home",
+  "acres": null,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20200605021230306816000000.jpg"
+ },
+ {
+  "mls": "1105730",
+  "addr": "Multi Unit Marble Hill Blvd",
+  "city": "Knoxville",
+  "zip": "37914",
+  "slug": "knoxville",
+  "date": "2020-07-02",
+  "year": "2020",
+  "range": "$150K\u2013$200K",
+  "role": "Represented seller",
+  "beds": null,
+  "baths": null,
+  "sqft": 875,
+  "sub": "Marble Hill Horiz Regime",
+  "ptype": "multi",
+  "acres": null,
+  "photo": "http://cdn.photos.sparkplatform.com/knx/20200123023121849367000000.jpg"
  },
  {
   "mls": "1117439",
@@ -3533,6 +4369,8 @@
   "baths": "1",
   "sqft": 1317,
   "sub": "Colonial Village",
+  "ptype": "home",
+  "acres": null,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20200524202140379250000000.jpg"
  },
  {
@@ -3549,6 +4387,8 @@
   "baths": "2",
   "sqft": 1739,
   "sub": "Wood Creek West",
+  "ptype": "home",
+  "acres": 4.5,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20200516171354641989000000.jpg"
  },
  {
@@ -3565,6 +4405,8 @@
   "baths": "2",
   "sqft": 1904,
   "sub": "Dogwood Shores Unit",
+  "ptype": "home",
+  "acres": 1.1,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20200523050135727522000000.jpg"
  },
  {
@@ -3581,6 +4423,8 @@
   "baths": "2",
   "sqft": 1166,
   "sub": null,
+  "ptype": "home",
+  "acres": 2.09,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20200323195329048808000000.jpg"
  },
  {
@@ -3597,6 +4441,8 @@
   "baths": "2",
   "sqft": 2101,
   "sub": "Hattie's Place",
+  "ptype": "home",
+  "acres": null,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20200424161841318242000000.jpg"
  },
  {
@@ -3613,6 +4459,8 @@
   "baths": "2",
   "sqft": 1538,
   "sub": "Rarity Bay",
+  "ptype": "home",
+  "acres": null,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20160615145006188505000000.jpg"
  },
  {
@@ -3629,6 +4477,8 @@
   "baths": "2",
   "sqft": 2425,
   "sub": null,
+  "ptype": "home",
+  "acres": 0.81,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20200410014104886216000000.jpg"
  },
  {
@@ -3645,6 +4495,8 @@
   "baths": "3",
   "sqft": 2796,
   "sub": "Williford S/D Phase 1",
+  "ptype": "home",
+  "acres": null,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20191002130710882043000000.jpg"
  },
  {
@@ -3661,6 +4513,8 @@
   "baths": "2",
   "sqft": 1484,
   "sub": "Fountain City Heights",
+  "ptype": "home",
+  "acres": null,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20190429152332160339000000.jpg"
  },
  {
@@ -3677,6 +4531,8 @@
   "baths": "1",
   "sqft": 905,
   "sub": null,
+  "ptype": "home",
+  "acres": null,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20200313213755518812000000.jpg"
  },
  {
@@ -3693,7 +4549,81 @@
   "baths": "2",
   "sqft": 1961,
   "sub": null,
+  "ptype": "home",
+  "acres": 1.09,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20191028204811186578000000.jpg"
+ },
+ {
+  "mls": "1104806",
+  "addr": "123 High View Lane #123",
+  "city": "Knoxville",
+  "zip": "37931",
+  "slug": "karns",
+  "date": "2020-02-12",
+  "year": "2020",
+  "range": "Under $100K",
+  "role": "Represented buyer",
+  "beds": null,
+  "baths": null,
+  "sqft": null,
+  "sub": "Emory Vista Phase II",
+  "ptype": "land",
+  "acres": 0.29,
+  "photo": "http://cdn.photos.sparkplatform.com/knx/20200113192009750884000000.jpg"
+ },
+ {
+  "mls": "1104799",
+  "addr": "82 Mountain Vista Rd #82",
+  "city": "Knoxville",
+  "zip": "37931",
+  "slug": "karns",
+  "date": "2020-02-12",
+  "year": "2020",
+  "range": "Under $100K",
+  "role": "Represented buyer",
+  "beds": null,
+  "baths": null,
+  "sqft": null,
+  "sub": "Emory Vista Phase 1",
+  "ptype": "land",
+  "acres": 0.25,
+  "photo": "http://cdn.photos.sparkplatform.com/knx/20200113183308741529000000.jpg"
+ },
+ {
+  "mls": "1104788",
+  "addr": "110 High View Lane",
+  "city": "Knoxville",
+  "zip": "37931",
+  "slug": "karns",
+  "date": "2020-02-12",
+  "year": "2020",
+  "range": "Under $100K",
+  "role": "Represented buyer",
+  "beds": null,
+  "baths": null,
+  "sqft": null,
+  "sub": "Emory Vista Phase II",
+  "ptype": "land",
+  "acres": 0.22,
+  "photo": "http://cdn.photos.sparkplatform.com/knx/20200113165418962193000000.jpg"
+ },
+ {
+  "mls": "1104780",
+  "addr": "83 Mountain Vista Rd #83",
+  "city": "Knoxville",
+  "zip": "37931",
+  "slug": "karns",
+  "date": "2020-02-12",
+  "year": "2020",
+  "range": "Under $100K",
+  "role": "Represented buyer",
+  "beds": null,
+  "baths": null,
+  "sqft": null,
+  "sub": "Emory Vista Phase 1",
+  "ptype": "land",
+  "acres": 0.25,
+  "photo": "http://cdn.photos.sparkplatform.com/knx/20200113155918423802000000.jpg"
  },
  {
   "mls": "1101039",
@@ -3709,6 +4639,8 @@
   "baths": "1",
   "sqft": 1124,
   "sub": null,
+  "ptype": "home",
+  "acres": 0.16,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20191120183035358756000000.jpg"
  },
  {
@@ -3725,6 +4657,8 @@
   "baths": "1",
   "sqft": 1673,
   "sub": "Shipes",
+  "ptype": "home",
+  "acres": 0.4,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20191002235809198934000000.jpg"
  },
  {
@@ -3741,6 +4675,8 @@
   "baths": "3",
   "sqft": 2635,
   "sub": "Dutchtown Woods",
+  "ptype": "home",
+  "acres": null,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20191003194454221476000000.jpg"
  },
  {
@@ -3757,6 +4693,8 @@
   "baths": "2",
   "sqft": 1800,
   "sub": "Berkshire Woods",
+  "ptype": "home",
+  "acres": null,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20191113220003750951000000.jpg"
  },
  {
@@ -3773,6 +4711,8 @@
   "baths": "2",
   "sqft": 3600,
   "sub": "Concord Hills Unit 4",
+  "ptype": "home",
+  "acres": null,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20191105210424324609000000.jpg"
  },
  {
@@ -3789,6 +4729,8 @@
   "baths": "2",
   "sqft": 2276,
   "sub": "The Preserve",
+  "ptype": "home",
+  "acres": null,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20190422183159657219000000.jpg"
  },
  {
@@ -3805,6 +4747,8 @@
   "baths": "2",
   "sqft": 1734,
   "sub": "The Colonies",
+  "ptype": "home",
+  "acres": null,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20190820114935708495000000.jpg"
  },
  {
@@ -3821,6 +4765,8 @@
   "baths": "2",
   "sqft": 1760,
   "sub": "Bakertown Station",
+  "ptype": "home",
+  "acres": null,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20190906202227430952000000.jpg"
  },
  {
@@ -3837,6 +4783,8 @@
   "baths": "3",
   "sqft": 3198,
   "sub": "Orchard Knob S/D",
+  "ptype": "home",
+  "acres": 0.73,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20190613181543546193000000.jpg"
  },
  {
@@ -3853,6 +4801,8 @@
   "baths": "2",
   "sqft": 1484,
   "sub": "The Preserve",
+  "ptype": "home",
+  "acres": null,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20190904194036452680000000.jpg"
  },
  {
@@ -3869,6 +4819,8 @@
   "baths": "1",
   "sqft": 650,
   "sub": "Perry And Margaret Childress Property",
+  "ptype": "home",
+  "acres": null,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20190701130129307884000000.jpg"
  },
  {
@@ -3885,6 +4837,8 @@
   "baths": "2",
   "sqft": 2330,
   "sub": "Meredith Place",
+  "ptype": "home",
+  "acres": null,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20190727033210288452000000.jpg"
  },
  {
@@ -3901,6 +4855,8 @@
   "baths": "3",
   "sqft": 3060,
   "sub": null,
+  "ptype": "home",
+  "acres": 35.0,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20190417113928480199000000.jpg"
  },
  {
@@ -3917,6 +4873,8 @@
   "baths": "1",
   "sqft": 1205,
   "sub": "Clearview Hills",
+  "ptype": "home",
+  "acres": null,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20190705143124142547000000.jpg"
  },
  {
@@ -3933,6 +4891,8 @@
   "baths": "3",
   "sqft": 3623,
   "sub": "Lancaster Ridge",
+  "ptype": "home",
+  "acres": null,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20190410023435855903000000.jpg"
  },
  {
@@ -3949,6 +4909,8 @@
   "baths": "1",
   "sqft": 1220,
   "sub": "Colonial Village",
+  "ptype": "home",
+  "acres": null,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20190524215833084754000000.jpg"
  },
  {
@@ -3965,6 +4927,8 @@
   "baths": "3",
   "sqft": 1988,
   "sub": null,
+  "ptype": "home",
+  "acres": null,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20190502132935227569000000.jpg"
  },
  {
@@ -3981,6 +4945,8 @@
   "baths": "1",
   "sqft": 960,
   "sub": "Prop of Freddie R Brasfield",
+  "ptype": "home",
+  "acres": 0.18,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20190430180359308666000000.jpg"
  },
  {
@@ -3997,6 +4963,8 @@
   "baths": "1",
   "sqft": 800,
   "sub": "Minnis 2Nd Pts 19 20",
+  "ptype": "home",
+  "acres": null,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20190516165133980057000000.jpg"
  },
  {
@@ -4013,6 +4981,8 @@
   "baths": "2",
   "sqft": 966,
   "sub": "Devanshire Phase II",
+  "ptype": "home",
+  "acres": null,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20190520194905314283000000.jpg"
  },
  {
@@ -4029,6 +4999,8 @@
   "baths": "2",
   "sqft": 3274,
   "sub": "Woodland Springs Unit 2",
+  "ptype": "home",
+  "acres": null,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20190227005019874147000000.jpg"
  },
  {
@@ -4045,6 +5017,8 @@
   "baths": "2",
   "sqft": 1636,
   "sub": "Crestwood Hills Unit 7",
+  "ptype": "home",
+  "acres": null,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20190415151044963871000000.jpg"
  },
  {
@@ -4061,6 +5035,8 @@
   "baths": "3",
   "sqft": 2600,
   "sub": "Kent Mcclain Add 1",
+  "ptype": "home",
+  "acres": 0.5,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20190326132941573808000000.jpg"
  },
  {
@@ -4077,6 +5053,8 @@
   "baths": "1",
   "sqft": 792,
   "sub": "City Homes",
+  "ptype": "home",
+  "acres": null,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20190412010137025199000000.jpg"
  },
  {
@@ -4093,6 +5071,8 @@
   "baths": "3",
   "sqft": 2490,
   "sub": null,
+  "ptype": "home",
+  "acres": 0.8,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20181223015506993074000000.jpg"
  },
  {
@@ -4109,6 +5089,8 @@
   "baths": "2",
   "sqft": 927,
   "sub": "Wood Song Subdivision Unit 1",
+  "ptype": "home",
+  "acres": null,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20190412141124064883000000.jpg"
  },
  {
@@ -4125,6 +5107,8 @@
   "baths": "1",
   "sqft": 909,
   "sub": "Colonial Village",
+  "ptype": "home",
+  "acres": null,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20190330000512717587000000.jpg"
  },
  {
@@ -4141,6 +5125,8 @@
   "baths": "2",
   "sqft": 2449,
   "sub": "Woodcreek Reserve",
+  "ptype": "home",
+  "acres": 0.2,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20190301211551758394000000.jpg"
  },
  {
@@ -4157,6 +5143,8 @@
   "baths": "1",
   "sqft": 1185,
   "sub": "Meadors Add 1 Resub",
+  "ptype": "home",
+  "acres": null,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20190215154636025318000000.jpg"
  },
  {
@@ -4173,6 +5161,8 @@
   "baths": "2",
   "sqft": 1573,
   "sub": "Blakewood Condo Phase 2C Unit 87",
+  "ptype": "home",
+  "acres": null,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20190122144724757511000000.jpg"
  },
  {
@@ -4189,6 +5179,8 @@
   "baths": "3",
   "sqft": 2177,
   "sub": "Gulf Park Unit 3",
+  "ptype": "home",
+  "acres": 0.34,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20190106215428648912000000.jpg"
  },
  {
@@ -4205,6 +5197,8 @@
   "baths": "1",
   "sqft": 1100,
   "sub": "Sky Harbor Sec A",
+  "ptype": "home",
+  "acres": null,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20190119020132718134000000.jpg"
  },
  {
@@ -4221,6 +5215,8 @@
   "baths": "1",
   "sqft": 1356,
   "sub": "Sky Harbor Sec H",
+  "ptype": "home",
+  "acres": null,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20190119013319590939000000.jpg"
  },
  {
@@ -4237,6 +5233,8 @@
   "baths": "3",
   "sqft": 2885,
   "sub": null,
+  "ptype": "home",
+  "acres": null,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20181001200302352915000000.jpg"
  },
  {
@@ -4253,6 +5251,8 @@
   "baths": "2",
   "sqft": 1656,
   "sub": "River Shores Unit 2",
+  "ptype": "home",
+  "acres": 0.62,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20180913202642969495000000.jpg"
  },
  {
@@ -4269,6 +5269,8 @@
   "baths": "2",
   "sqft": 2323,
   "sub": "Old Stage Hills Unit 2",
+  "ptype": "home",
+  "acres": null,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20180918141056517563000000.jpg"
  },
  {
@@ -4285,6 +5287,8 @@
   "baths": "2",
   "sqft": 1984,
   "sub": "Hatties Place",
+  "ptype": "home",
+  "acres": null,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20181019131500966099000000.jpg"
  },
  {
@@ -4301,6 +5305,8 @@
   "baths": "2",
   "sqft": 1548,
   "sub": null,
+  "ptype": "home",
+  "acres": 9.8,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20180919171546292002000000.jpg"
  },
  {
@@ -4317,6 +5323,8 @@
   "baths": "2",
   "sqft": 2450,
   "sub": "Stratford Park Unit 3",
+  "ptype": "home",
+  "acres": null,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20180828125908191081000000.jpg"
  },
  {
@@ -4333,6 +5341,8 @@
   "baths": "2",
   "sqft": 1296,
   "sub": "HOLIDAY HILLS UNIT 6",
+  "ptype": "home",
+  "acres": 0.25,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20180830113405158637000000.jpg"
  },
  {
@@ -4349,6 +5359,8 @@
   "baths": "2",
   "sqft": 1802,
   "sub": "Highgate S/D Unit 2",
+  "ptype": "home",
+  "acres": null,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20180807193003247640000000.jpg"
  },
  {
@@ -4365,6 +5377,8 @@
   "baths": "2",
   "sqft": 1405,
   "sub": "Cumberland Estates",
+  "ptype": "home",
+  "acres": 0.32,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20180901213007462764000000.jpg"
  },
  {
@@ -4381,6 +5395,8 @@
   "baths": "2",
   "sqft": 1416,
   "sub": "Norwood Court",
+  "ptype": "home",
+  "acres": null,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20180821144908347445000000.jpg"
  },
  {
@@ -4397,6 +5413,8 @@
   "baths": "3",
   "sqft": 2764,
   "sub": "Prop of Browder",
+  "ptype": "home",
+  "acres": 1.1,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20180130181146064253000000.jpg"
  },
  {
@@ -4413,6 +5431,8 @@
   "baths": "3",
   "sqft": 2668,
   "sub": "Shannon Valley Farms",
+  "ptype": "home",
+  "acres": null,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20180526180143622522000000.jpg"
  },
  {
@@ -4429,7 +5449,27 @@
   "baths": "2",
   "sqft": 1226,
   "sub": "Golden Meadows",
+  "ptype": "home",
+  "acres": 0.35,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20180731140551675400000000.jpg"
+ },
+ {
+  "mls": "1024363",
+  "addr": "3013 Marble Hill Blvd",
+  "city": "Knoxville",
+  "zip": "37914",
+  "slug": "knoxville",
+  "date": "2018-09-05",
+  "year": "2018",
+  "range": "$100K\u2013$150K",
+  "role": "Represented buyer",
+  "beds": null,
+  "baths": null,
+  "sqft": 1248,
+  "sub": "Marble Hill Horiz Regime Phase 1 Unit 10L",
+  "ptype": "multi",
+  "acres": null,
+  "photo": "http://cdn.photos.sparkplatform.com/knx/20171205022442373664000000.jpg"
  },
  {
   "mls": "1049537",
@@ -4445,6 +5485,8 @@
   "baths": "1",
   "sqft": 1120,
   "sub": "B H Sprankles",
+  "ptype": "home",
+  "acres": null,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20180717004908044502000000.jpg"
  },
  {
@@ -4461,7 +5503,27 @@
   "baths": "1",
   "sqft": 1185,
   "sub": null,
+  "ptype": "home",
+  "acres": 0.85,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20180612014551391003000000.jpg"
+ },
+ {
+  "mls": "964308",
+  "addr": "2921 Nickle Rd",
+  "city": "Knoxville",
+  "zip": "37921",
+  "slug": "west-knoxville",
+  "date": "2018-07-31",
+  "year": "2018",
+  "range": "Under $100K",
+  "role": "Represented buyer",
+  "beds": null,
+  "baths": null,
+  "sqft": null,
+  "sub": null,
+  "ptype": "land",
+  "acres": 1.76,
+  "photo": "http://cdn.photos.sparkplatform.com/knx/20160511221027776081000000.jpg"
  },
  {
   "mls": "1032173",
@@ -4477,6 +5539,8 @@
   "baths": "1",
   "sqft": 832,
   "sub": null,
+  "ptype": "home",
+  "acres": null,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20180301142914757914000000.jpg"
  },
  {
@@ -4493,6 +5557,8 @@
   "baths": "2",
   "sqft": 1204,
   "sub": "Smoky River",
+  "ptype": "home",
+  "acres": null,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20180613150811229102000000.jpg"
  },
  {
@@ -4509,6 +5575,8 @@
   "baths": "2",
   "sqft": 2142,
   "sub": "Laurel Ridge",
+  "ptype": "home",
+  "acres": null,
   "photo": null
  },
  {
@@ -4525,6 +5593,8 @@
   "baths": "1",
   "sqft": 1397,
   "sub": null,
+  "ptype": "home",
+  "acres": 1.28,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20180416151654189180000000.jpg"
  },
  {
@@ -4541,6 +5611,8 @@
   "baths": "1",
   "sqft": 1104,
   "sub": null,
+  "ptype": "home",
+  "acres": 0.16,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20180323031714797259000000.jpg"
  },
  {
@@ -4557,6 +5629,8 @@
   "baths": "1",
   "sqft": 1154,
   "sub": "East Village",
+  "ptype": "home",
+  "acres": 0.2,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20171021163348592830000000.jpg"
  },
  {
@@ -4573,6 +5647,8 @@
   "baths": "2",
   "sqft": 2028,
   "sub": "Hatties Place",
+  "ptype": "home",
+  "acres": null,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20180613172527791672000000.jpg"
  },
  {
@@ -4589,6 +5665,8 @@
   "baths": "2",
   "sqft": 2589,
   "sub": "Reagan Landing",
+  "ptype": "home",
+  "acres": 0.51,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20180418172817542863000000.jpg"
  },
  {
@@ -4605,6 +5683,8 @@
   "baths": "2",
   "sqft": 1016,
   "sub": "Lexi Landing",
+  "ptype": "home",
+  "acres": null,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20180331002758447152000000.jpg"
  },
  {
@@ -4621,6 +5701,8 @@
   "baths": "1",
   "sqft": 1110,
   "sub": null,
+  "ptype": "home",
+  "acres": 0.49,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20180417153239281120000000.jpg"
  },
  {
@@ -4637,7 +5719,27 @@
   "baths": "1",
   "sqft": 1427,
   "sub": "College Hill Addition",
+  "ptype": "home",
+  "acres": null,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20180329223338783355000000.jpg"
+ },
+ {
+  "mls": "1017836",
+  "addr": "1506 Jefferson Ave",
+  "city": "Maryville",
+  "zip": "37804",
+  "slug": "maryville",
+  "date": "2018-04-27",
+  "year": "2018",
+  "range": "Under $100K",
+  "role": "Represented seller",
+  "beds": null,
+  "baths": null,
+  "sqft": 13939,
+  "sub": null,
+  "ptype": "commercial",
+  "acres": 0.32,
+  "photo": "http://cdn.photos.sparkplatform.com/knx/20170927215409459191000000.jpg"
  },
  {
   "mls": "1033621",
@@ -4653,6 +5755,8 @@
   "baths": "1",
   "sqft": 784,
   "sub": "MAPLE CHASE",
+  "ptype": "home",
+  "acres": null,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20180312180917667216000000.jpg"
  },
  {
@@ -4669,6 +5773,8 @@
   "baths": "2",
   "sqft": 1000,
   "sub": "Brown Gap Villas",
+  "ptype": "home",
+  "acres": null,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20180206135436366187000000.jpg"
  },
  {
@@ -4685,6 +5791,8 @@
   "baths": "2",
   "sqft": 1500,
   "sub": "Kent McClains ADD 1",
+  "ptype": "home",
+  "acres": 0.5,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20180112160014370345000000.jpg"
  },
  {
@@ -4701,6 +5809,8 @@
   "baths": "2",
   "sqft": 2400,
   "sub": "Hialeah Park",
+  "ptype": "home",
+  "acres": null,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20180208162231399512000000.jpg"
  },
  {
@@ -4717,6 +5827,8 @@
   "baths": "3",
   "sqft": 2832,
   "sub": "Hayden Hill",
+  "ptype": "home",
+  "acres": 0.5,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20180208214307369794000000.jpg"
  },
  {
@@ -4733,6 +5845,8 @@
   "baths": "2",
   "sqft": 1560,
   "sub": null,
+  "ptype": "home",
+  "acres": 1.51,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20171031023537955601000000.jpg"
  },
  {
@@ -4749,6 +5863,8 @@
   "baths": "1",
   "sqft": 1238,
   "sub": "College Hill Add",
+  "ptype": "home",
+  "acres": null,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20180101073932145668000000.jpg"
  },
  {
@@ -4765,6 +5881,8 @@
   "baths": "3",
   "sqft": 2974,
   "sub": "Hidden Meadows",
+  "ptype": "home",
+  "acres": null,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20171023182041366808000000.jpg"
  },
  {
@@ -4781,7 +5899,27 @@
   "baths": "2",
   "sqft": 3299,
   "sub": "Greenbrook",
+  "ptype": "home",
+  "acres": null,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20171107013040426079000000.jpg"
+ },
+ {
+  "mls": "1024365",
+  "addr": "3101 Marble Hill Blvd",
+  "city": "Knoxville",
+  "zip": "37914",
+  "slug": "knoxville",
+  "date": "2018-01-31",
+  "year": "2018",
+  "range": "Under $100K",
+  "role": "Represented buyer",
+  "beds": null,
+  "baths": null,
+  "sqft": 850,
+  "sub": "MARBLE HILL HORIZ REGIME PHASE 1 UNIT",
+  "ptype": "multi",
+  "acres": null,
+  "photo": "http://cdn.photos.sparkplatform.com/knx/20171205024458088367000000.jpg"
  },
  {
   "mls": "1024262",
@@ -4797,6 +5935,8 @@
   "baths": "2",
   "sqft": 2856,
   "sub": null,
+  "ptype": "home",
+  "acres": 2.0,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20171204025300491290000000.jpg"
  },
  {
@@ -4813,6 +5953,8 @@
   "baths": "1",
   "sqft": 1233,
   "sub": null,
+  "ptype": "home",
+  "acres": null,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20171031224123048376000000.jpg"
  },
  {
@@ -4829,7 +5971,27 @@
   "baths": "2",
   "sqft": 2568,
   "sub": "Waterside Cove",
+  "ptype": "home",
+  "acres": null,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20170720172626568039000000.jpg"
+ },
+ {
+  "mls": "1009739",
+  "addr": "2913 Hackman St",
+  "city": "Knoxville",
+  "zip": "37920",
+  "slug": "south-knoxville",
+  "date": "2017-12-20",
+  "year": "2017",
+  "range": "Under $100K",
+  "role": "Represented buyer",
+  "beds": null,
+  "baths": null,
+  "sqft": 1221,
+  "sub": "City Holmes unit 4",
+  "ptype": "multi",
+  "acres": null,
+  "photo": "http://cdn.photos.sparkplatform.com/knx/20170718190738281876000000.jpg"
  },
  {
   "mls": "1021112",
@@ -4845,7 +6007,27 @@
   "baths": "3",
   "sqft": 2550,
   "sub": "Summer Place S/D",
+  "ptype": "home",
+  "acres": null,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20171030144127667570000000.jpg"
+ },
+ {
+  "mls": "1017518",
+  "addr": "1254 W Highway 70",
+  "city": "Lenoir City",
+  "zip": "37771",
+  "slug": "lenoir-city",
+  "date": "2017-11-17",
+  "year": "2017",
+  "range": "$150K\u2013$200K",
+  "role": "Represented buyer",
+  "beds": null,
+  "baths": null,
+  "sqft": null,
+  "sub": null,
+  "ptype": "land",
+  "acres": null,
+  "photo": "http://cdn.photos.sparkplatform.com/knx/20170922205404173594000000.jpg"
  },
  {
   "mls": "992514",
@@ -4861,6 +6043,8 @@
   "baths": "2",
   "sqft": 2400,
   "sub": "Beals Creek",
+  "ptype": "home",
+  "acres": null,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20170428042727306981000000.jpg"
  },
  {
@@ -4877,6 +6061,8 @@
   "baths": "3",
   "sqft": 3056,
   "sub": "Topside Estate",
+  "ptype": "home",
+  "acres": 3.72,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20170825012237248677000000.jpg"
  },
  {
@@ -4893,6 +6079,8 @@
   "baths": "2",
   "sqft": 1718,
   "sub": "Seven Springs",
+  "ptype": "home",
+  "acres": null,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20170913182305408262000000.jpg"
  },
  {
@@ -4909,6 +6097,8 @@
   "baths": "2",
   "sqft": 2200,
   "sub": "Shadow Brook S/D Unit 1",
+  "ptype": "home",
+  "acres": null,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20170817153416182063000000.jpg"
  },
  {
@@ -4925,6 +6115,8 @@
   "baths": "2",
   "sqft": 1746,
   "sub": "Hidden View",
+  "ptype": "home",
+  "acres": null,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20170503192353604774000000.jpg"
  },
  {
@@ -4941,6 +6133,8 @@
   "baths": "2",
   "sqft": 1404,
   "sub": "glade springs estates",
+  "ptype": "home",
+  "acres": null,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20170626183548438992000000.jpg"
  },
  {
@@ -4957,6 +6151,8 @@
   "baths": "2",
   "sqft": 1175,
   "sub": "Norwood Court",
+  "ptype": "home",
+  "acres": null,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20170711150759183036000000.jpg"
  },
  {
@@ -4973,6 +6169,8 @@
   "baths": "2",
   "sqft": 1208,
   "sub": "Joshua Place",
+  "ptype": "home",
+  "acres": null,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20170707134541550917000000.jpg"
  },
  {
@@ -4989,6 +6187,8 @@
   "baths": "3",
   "sqft": 2030,
   "sub": "Spring Ridge S/D",
+  "ptype": "home",
+  "acres": null,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20170504222056048245000000.jpg"
  },
  {
@@ -5005,6 +6205,8 @@
   "baths": "1",
   "sqft": 1233,
   "sub": null,
+  "ptype": "home",
+  "acres": null,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20170518172110745539000000.jpg"
  },
  {
@@ -5021,6 +6223,8 @@
   "baths": "2",
   "sqft": 1406,
   "sub": "Ho-Co-Ta-Ke Sub",
+  "ptype": "home",
+  "acres": null,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20170511175738004154000000.jpg"
  },
  {
@@ -5037,6 +6241,8 @@
   "baths": "1",
   "sqft": 1036,
   "sub": "Fountain City Co Pt 9,21, & 22",
+  "ptype": "home",
+  "acres": null,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20170322155044174520000000.jpg"
  },
  {
@@ -5053,6 +6259,8 @@
   "baths": "2",
   "sqft": 1208,
   "sub": "Tillery Square",
+  "ptype": "home",
+  "acres": null,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20170510153148389800000000.jpg"
  },
  {
@@ -5069,6 +6277,8 @@
   "baths": "3",
   "sqft": 2925,
   "sub": "Campbell Park",
+  "ptype": "home",
+  "acres": null,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20170222231846881327000000.jpg"
  },
  {
@@ -5085,6 +6295,8 @@
   "baths": "1",
   "sqft": 1508,
   "sub": "Montacres Sub",
+  "ptype": "home",
+  "acres": null,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20170325055115213358000000.jpg"
  },
  {
@@ -5101,6 +6313,8 @@
   "baths": "2",
   "sqft": 2830,
   "sub": "Brighton Farms Unit 3",
+  "ptype": "home",
+  "acres": null,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20170313205745337665000000.jpg"
  },
  {
@@ -5117,6 +6331,8 @@
   "baths": "1",
   "sqft": 1272,
   "sub": "Valley View Estates",
+  "ptype": "home",
+  "acres": null,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20170131162635819174000000.jpg"
  },
  {
@@ -5133,6 +6349,8 @@
   "baths": "2",
   "sqft": 2226,
   "sub": "HIGHLANDS AT NORTHSHORE",
+  "ptype": "home",
+  "acres": null,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20170303153053578137000000.jpg"
  },
  {
@@ -5149,6 +6367,8 @@
   "baths": "3",
   "sqft": 3050,
   "sub": "Brandywine At Turkey Creek",
+  "ptype": "home",
+  "acres": null,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20160909215705583514000000.jpg"
  },
  {
@@ -5165,6 +6385,8 @@
   "baths": "2",
   "sqft": 934,
   "sub": "Mulberry Square",
+  "ptype": "home",
+  "acres": 0.34,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20170113160809959253000000.jpg"
  },
  {
@@ -5181,6 +6403,8 @@
   "baths": "3",
   "sqft": 1953,
   "sub": "Spring Ridge S/D",
+  "ptype": "home",
+  "acres": null,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20170103235615102590000000.jpg"
  },
  {
@@ -5197,6 +6421,8 @@
   "baths": "3",
   "sqft": 3594,
   "sub": "Lake Forest Hghts 2nd",
+  "ptype": "home",
+  "acres": 0.58,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20160915201456332119000000.jpg"
  },
  {
@@ -5213,6 +6439,8 @@
   "baths": "2",
   "sqft": 1294,
   "sub": "Greenbriar Place S/D",
+  "ptype": "home",
+  "acres": null,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20161005153619293977000000.jpg"
  },
  {
@@ -5229,6 +6457,8 @@
   "baths": "2",
   "sqft": 1424,
   "sub": "Cherrybrook Condos",
+  "ptype": "home",
+  "acres": null,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20161005154558406459000000.jpg"
  },
  {
@@ -5245,6 +6475,8 @@
   "baths": "2",
   "sqft": 1900,
   "sub": "Carrington",
+  "ptype": "home",
+  "acres": null,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20160822180539962164000000.jpg"
  },
  {
@@ -5261,6 +6493,8 @@
   "baths": "2",
   "sqft": 983,
   "sub": "Willow Creek Sub Unit 1 Resub",
+  "ptype": "home",
+  "acres": 0.03,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20160628185939969214000000.jpg"
  },
  {
@@ -5277,6 +6511,8 @@
   "baths": "2",
   "sqft": 1576,
   "sub": "Vineyard Crest Unit 3",
+  "ptype": "home",
+  "acres": null,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20160920132951174032000000.jpg"
  },
  {
@@ -5293,6 +6529,8 @@
   "baths": "2",
   "sqft": 3000,
   "sub": "Mahlon Place",
+  "ptype": "home",
+  "acres": null,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20150913035132661214000000.jpg"
  },
  {
@@ -5309,6 +6547,8 @@
   "baths": "2",
   "sqft": 1618,
   "sub": "Ho-co-ta-ke Sub",
+  "ptype": "home",
+  "acres": 0.33,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20160928200644521640000000.jpg"
  },
  {
@@ -5325,6 +6565,8 @@
   "baths": "2",
   "sqft": 1294,
   "sub": "Greenbriar Place S/D",
+  "ptype": "home",
+  "acres": 0.19,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20160509151018277634000000.jpg"
  },
  {
@@ -5341,6 +6583,8 @@
   "baths": "2",
   "sqft": 2911,
   "sub": "Creekside Manor",
+  "ptype": "home",
+  "acres": null,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20160403171741572967000000.jpg"
  },
  {
@@ -5357,6 +6601,8 @@
   "baths": "2",
   "sqft": 1800,
   "sub": "Berkshire Woods",
+  "ptype": "home",
+  "acres": null,
   "photo": "http://cdn.photos.sparkplatform.com/knx/20150905124314537206000000.jpg"
  }
 ]
