@@ -273,7 +273,9 @@ p + p { margin-top: 1em; }
    SOLD PORTFOLIO
    ══════════════════════════════════════════ */
 .sold-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(250px, 1fr)); gap: 1.1rem; }
-.sold-card { background: var(--white, #fff); border: 1px solid var(--line); border-left: 3px solid var(--brass); border-radius: 8px; padding: 1rem 1.1rem; }
+.sold-card { background: var(--white, #fff); border: 1px solid var(--line); border-left: 3px solid var(--brass); border-radius: 8px; overflow: hidden; }
+.sold-photo { width: 100%; aspect-ratio: 3 / 2; object-fit: cover; display: block; }
+.sold-body { padding: 1rem 1.1rem; }
 .sold-top { display: flex; justify-content: space-between; align-items: baseline; gap: 0.5rem; }
 .sold-range { font-family: "Fraunces", serif; font-size: 1.25rem; font-weight: 700; color: var(--pine); }
 .sold-year { font-size: 0.78rem; color: #8a8678; letter-spacing: 0.05em; }
