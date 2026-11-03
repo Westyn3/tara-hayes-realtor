@@ -1,11 +1,12 @@
-{% assign area_sold = site.data.sold | where: "slug", include.area %}
+{% if include.area == 'knoxville' %}{% assign area_sold = site.data.sold | where: "city", "Knoxville" %}{% else %}{% assign area_sold = site.data.sold | where: "slug", include.area %}{% endif %}
 {% if area_sold.size > 0 %}
 <section class="section section-alt">
   <div class="wrap">
     <h2>Sold here by Tara</h2>
     <p class="intro">{{ area_sold.size }} closed sale{% if area_sold.size > 1 %}s{% endif %} in this area &mdash; every one Tara's own transaction in the East Tennessee Realtors MLS.</p>
+    {% assign area_limit = 6 %}{% if area_sold.size > 24 %}{% assign area_limit = 9 %}{% endif %}
     <div class="sold-grid">
-      {% for s in area_sold limit: 6 %}{% include sold-card.html s=s %}{% endfor %}
+      {% for s in area_sold limit: area_limit %}{% include sold-card.html s=s %}{% endfor %}
     </div>
     <p style="margin-top:1.5rem;"><a href="{{ '/sold.html' | relative_url }}">See all {{ site.data.sold.size }} of Tara's closed sales &rarr;</a></p>
   </div>
