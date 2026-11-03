@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', function () {
         io.unobserve(entry.target);
       }
     });
-  }, { rootMargin: '0px 0px -8% 0px', threshold: 0.1 });
+  }, { rootMargin: '0px 0px -8% 0px', threshold: 0 });
 
   var blocks = document.querySelectorAll('main section, section.section, .page-hero, .cta-band');
   var seen = [];
