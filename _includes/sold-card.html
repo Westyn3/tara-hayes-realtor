@@ -1,0 +1,14 @@
+<div class="sold-card" data-slug="{{ include.s.slug | default: 'other' }}" data-year="{{ include.s.year }}">
+  <div class="sold-top">
+    <span class="sold-range">{{ include.s.range }}</span>
+    <span class="sold-year">{{ include.s.year }}</span>
+  </div>
+  <p class="sold-addr">{{ include.s.addr }}</p>
+  <p class="sold-sub">{% if include.s.sub %}{{ include.s.sub }} &middot; {% endif %}{{ include.s.city }}, TN</p>
+  <p class="sold-meta">
+    {%- if include.s.beds %}{{ include.s.beds }} bd{% endif -%}
+    {%- if include.s.baths %} &middot; {{ include.s.baths }} ba{% endif -%}
+    {%- if include.s.sqft %} &middot; {{ include.s.sqft }} sqft{% endif -%}
+  </p>
+  <span class="sold-role{% if include.s.role == 'Represented buyer' %} sold-role-buyer{% elsif include.s.role == 'Both sides' %} sold-role-both{% endif %}">{{ include.s.role }}</span>
+</div>

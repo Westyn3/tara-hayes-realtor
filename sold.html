@@ -1,0 +1,105 @@
+---
+layout: default
+title: "Sold by Tara Hayes | 335+ Closed Sales in East TN"
+description: "Every closed sale in Tara Hayes' MLS record since 2015 — 335+ transactions and $97M+ across Knoxville, Farragut, the lakes, and all of East Tennessee."
+crumb: "Sold"
+---
+<section class="page-hero">
+  <div class="wrap">
+    <p class="eyebrow">The Track Record</p>
+    <h1>Sold by Tara</h1>
+    <p>Every sale below is Tara's own closed transaction in the East Tennessee Realtors MLS &mdash; seller side, buyer side, or both. No team padding, no borrowed numbers.</p>
+  </div>
+</section>
+
+<section class="section">
+  <div class="wrap creds">
+    <div><strong>{{ site.data.sold.size }} closings</strong><span>since August 2015, all verifiable in the MLS</span></div>
+    <div><strong>$97M+</strong><span>in closed volume, career to date</span></div>
+    <div><strong>Both sides</strong><span>{{ site.data.sold | where: "role", "Represented seller" | size }} seller-side &middot; {{ site.data.sold | where: "role", "Represented buyer" | size }} buyer-side</span></div>
+    <div><strong>25 communities</strong><span>Knoxville to the lakes to the foothills</span></div>
+  </div>
+</section>
+
+<section class="section section-alt">
+  <div class="wrap">
+    <div class="sold-filters">
+      <label>Area
+        <select id="sold-area">
+          <option value="">All areas</option>
+          <option value="farragut">Farragut</option>
+          <option value="hardin-valley">Hardin Valley</option>
+          <option value="karns">Karns</option>
+          <option value="west-knoxville">West Knoxville</option>
+          <option value="bearden">Bearden</option>
+          <option value="sequoyah-hills">Sequoyah Hills</option>
+          <option value="north-knoxville">North Knoxville</option>
+          <option value="south-knoxville">South Knoxville</option>
+          <option value="knoxville">Knoxville (central &amp; east)</option>
+          <option value="halls">Halls</option>
+          <option value="powell">Powell</option>
+          <option value="clinton">Clinton</option>
+          <option value="oak-ridge">Oak Ridge</option>
+          <option value="lenoir-city">Lenoir City &amp; Loudon</option>
+          <option value="maryville">Maryville &amp; Alcoa</option>
+          <option value="jefferson-city">Jefferson City</option>
+          <option value="madisonville">Madisonville</option>
+          <option value="sweetwater">Sweetwater</option>
+          <option value="sevierville">Sevierville</option>
+          <option value="morristown">Morristown</option>
+          <option value="athens">Athens</option>
+          <option value="maynardville">Maynardville</option>
+          <option value="other">Other East TN</option>
+        </select>
+      </label>
+      <label>Year
+        <select id="sold-year">
+          <option value="">All years</option>
+          {% assign years = site.data.sold | map: "year" | uniq %}
+          {% for y in years %}<option value="{{ y }}">{{ y }}</option>{% endfor %}
+        </select>
+      </label>
+      <span class="sold-count" id="sold-count">{{ site.data.sold.size }} sales</span>
+    </div>
+
+    <div class="sold-grid" id="sold-grid">
+      {% for s in site.data.sold %}{% include sold-card.html s=s %}{% endfor %}
+    </div>
+  </div>
+</section>
+
+<section class="section cta-band">
+  <div class="wrap">
+    <h2>Your address could be next</h2>
+    <p>Eleven years, both sides of the table, and a contractor's eye on every one of these. Call or text Tara at <a href="tel:+18652428010">(865) 242-8010</a>.</p>
+    <a class="btn btn-ghost btn-ghost-light" href="{{ '/contact.html' | relative_url }}">Contact Tara</a>
+  </div>
+</section>
+
+<section class="section">
+  <div class="wrap">
+    <p style="font-size:0.85rem;color:var(--line);color:#8a8678;">Sold prices shown as ranges. Tennessee is a non-disclosure state; figures reflect Tara's own MLS closed-transaction records, 2015&ndash;present, East Tennessee Realtors MLS. Single-family residential shown.</p>
+  </div>
+</section>
+
+<script>
+(function () {
+  var area = document.getElementById('sold-area'),
+      year = document.getElementById('sold-year'),
+      count = document.getElementById('sold-count'),
+      cards = document.querySelectorAll('#sold-grid .sold-card');
+  function apply() {
+    var a = area.value, y = year.value, shown = 0;
+    cards.forEach(function (c) {
+      var ok = (!a || c.dataset.slug === a) && (!y || c.dataset.year === y);
+      c.style.display = ok ? '' : 'none';
+      if (ok) shown++;
+    });
+    count.textContent = shown + ' sale' + (shown === 1 ? '' : 's');
+  }
+  area.addEventListener('change', apply);
+  year.addEventListener('change', apply);
+  var params = new URLSearchParams(location.search);
+  if (params.get('area')) { area.value = params.get('area'); apply(); }
+}());
+</script>

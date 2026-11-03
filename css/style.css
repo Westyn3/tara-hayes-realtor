@@ -268,3 +268,23 @@ p + p { margin-top: 1em; }
   .card, .quote, .vendor-card { transition: none; }
   .card:hover, .quote:hover, .vendor-card:hover { transform: none; box-shadow: none; }
 }
+
+/* ══════════════════════════════════════════
+   SOLD PORTFOLIO
+   ══════════════════════════════════════════ */
+.sold-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(250px, 1fr)); gap: 1.1rem; }
+.sold-card { background: var(--white, #fff); border: 1px solid var(--line); border-left: 3px solid var(--brass); border-radius: 8px; padding: 1rem 1.1rem; }
+.sold-top { display: flex; justify-content: space-between; align-items: baseline; gap: 0.5rem; }
+.sold-range { font-family: "Fraunces", serif; font-size: 1.25rem; font-weight: 700; color: var(--pine); }
+.sold-year { font-size: 0.78rem; color: #8a8678; letter-spacing: 0.05em; }
+.sold-addr { font-weight: 600; margin: 0.35rem 0 0.1rem; font-size: 0.95rem; }
+.sold-sub { font-size: 0.82rem; color: #6E6A5E; margin: 0 0 0.35rem; }
+.sold-meta { font-size: 0.8rem; color: #6E6A5E; margin: 0 0 0.6rem; }
+.sold-role { display: inline-block; font-size: 0.68rem; text-transform: uppercase; letter-spacing: 0.07em; padding: 0.18rem 0.55rem; border-radius: 99px; background: var(--stone); color: var(--pine); border: 1px solid var(--line); }
+.sold-role-buyer { background: #F2EDE3; }
+.sold-role-both { background: var(--brass); color: #fff; border-color: var(--brass); }
+.sold-filters { display: flex; flex-wrap: wrap; gap: 1rem 1.5rem; align-items: end; margin-bottom: 1.5rem; }
+.sold-filters label { font-size: 0.8rem; text-transform: uppercase; letter-spacing: 0.06em; color: #6E6A5E; display: flex; flex-direction: column; gap: 0.3rem; }
+.sold-filters select { font: inherit; font-size: 0.95rem; padding: 0.45rem 0.6rem; border: 1px solid var(--line); border-radius: 6px; background: #fff; color: var(--ink); min-width: 180px; }
+.sold-count { margin-left: auto; font-family: "Fraunces", serif; font-size: 1.05rem; color: var(--pine); }
+@media (max-width: 600px) { .sold-count { margin-left: 0; } }
