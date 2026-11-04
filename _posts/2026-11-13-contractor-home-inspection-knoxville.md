@@ -1,7 +1,8 @@
 ---
 title: "What a Licensed Contractor Sees in a Knoxville Home Inspection"
+seo_title: "What a Contractor Sees in a Knoxville Home Inspection"
 date: 2026-11-13 07:00:00 -0500
-description: "Most buyers see paint and countertops. A contractor-broker sees foundations, rooflines, and the $30,000 problem behind the drywall. What I check at every showing."
+description: "Most buyers see paint and countertops. A contractor-broker sees foundations, rooflines and the $30,000 problem behind the drywall. What I check at showings."
 area: "Knoxville"
 ---
 

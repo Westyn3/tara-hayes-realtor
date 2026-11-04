@@ -15,6 +15,7 @@ crumb: "Blog"
     {% if site.posts.size == 0 %}
     <div class="prose"><p>First post lands this Friday &mdash; neighborhood guides, market honesty, and a contractor's take on East Tennessee homes. Check back soon, or follow Tara on <a href="https://www.facebook.com/realtorinahat">Facebook</a> in the meantime.</p></div>
     {% endif %}
+    <h2 class="sr-only">Latest posts</h2>
     <div class="grid">
       {% for post in site.posts %}
       <div class="card">

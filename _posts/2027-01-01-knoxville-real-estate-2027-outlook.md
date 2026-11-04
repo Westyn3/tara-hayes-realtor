@@ -1,5 +1,6 @@
 ---
 title: "Knoxville Real Estate in 2027: What Buyers & Sellers Should Expect"
+seo_title: "Knoxville Real Estate in 2027: What to Expect"
 date: 2027-01-01 07:00:00 -0500
 description: "New year, new market. Where Knoxville home prices, inventory, and demand look headed in 2027 — and how buyers and sellers should play it."
 area: "Market outlook"

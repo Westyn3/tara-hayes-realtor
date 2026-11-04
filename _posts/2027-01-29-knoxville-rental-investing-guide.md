@@ -1,7 +1,7 @@
 ---
 title: "Investing in Knoxville Rentals: Where the Numbers Still Work"
 date: 2027-01-29 07:00:00 -0500
-description: "Knoxville keeps landing on best-places-to-invest lists. A broker and property manager's honest look at where rental numbers still pencil in 2027 — and where they don't."
+description: "Knoxville keeps landing on best-places-to-invest lists. A broker and property manager's honest look at where rental numbers still pencil in 2027."
 area: "Investing"
 ---
 
