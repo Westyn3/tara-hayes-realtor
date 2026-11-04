@@ -25,7 +25,19 @@ def tara(s): return 'hayes' in (s or '').lower() and 'tara' in (s or '').lower()
 def price_range(p):
     if p < 100000: return "Under $100K"
     lo = int(p // 50000) * 50000
+    if lo >= 1000000:
+        fmt = lambda v: f"${v/1_000_000:g}M"
+        return f"{fmt(lo)}–{fmt(lo+50000)}"
     return f"${lo//1000}K–${(lo+50000)//1000}K"
+
+# Closed deals verified in brokerage records but absent from the ETR export
+# (e.g. co-op sales recorded in another MLS board). Kept across regenerations.
+MANUAL_EXTRA = [
+    {"mls": "1317890", "addr": "226 Deer Run Point", "city": "LaFollette", "zip": "37766",
+     "slug": None, "date": "2026-03-31", "year": "2026", "range": "$1.05M–$1.1M",
+     "role": "Represented buyer", "beds": "4", "baths": "4", "sqft": None,
+     "sub": "Deerfield Resort", "ptype": "home", "acres": None, "photo": None, "img": False},
+]
 
 def main(src):
     rows = list(csv.DictReader(open(src, newline='', encoding='utf-8', errors='replace')))
@@ -64,6 +76,8 @@ def main(src):
             'ptype': ptype, 'acres': round(acres, 2) if acres else None,
             'photo': (r['Photo URL'] or '').strip() or None,
         })
+    have = {x['mls'] for x in out}
+    out.extend(x for x in MANUAL_EXTRA if x['mls'] not in have)
     out.sort(key=lambda x: x['date'], reverse=True)
     dst = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), '_data', 'sold.json')
     json.dump(out, open(dst, 'w'), indent=1)

@@ -266,6 +266,25 @@
   "img": false
  },
  {
+  "mls": "1317890",
+  "addr": "226 Deer Run Point",
+  "city": "LaFollette",
+  "zip": "37766",
+  "slug": null,
+  "date": "2026-03-31",
+  "year": "2026",
+  "range": "$1.05M\u2013$1.1M",
+  "role": "Represented buyer",
+  "beds": "4",
+  "baths": "4",
+  "sqft": null,
+  "sub": "Deerfield Resort",
+  "ptype": "home",
+  "acres": null,
+  "photo": null,
+  "img": false
+ },
+ {
   "mls": "1322255",
   "addr": "597 Carrington Blvd",
   "city": "Lenoir City",
