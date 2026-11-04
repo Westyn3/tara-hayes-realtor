@@ -1,5 +1,6 @@
 ---
 title: "Farragut vs. Hardin Valley: Where Knoxville Families Are Buying"
+seo_title: "Farragut vs. Hardin Valley: Where Knoxville Families Buy"
 date: 2026-10-30 07:00:00 -0400
 description: "Two of West Knox County's most popular family markets, compared honestly — schools, home styles, prices, commutes, and which one fits your family."
 area: "Farragut & Hardin Valley"

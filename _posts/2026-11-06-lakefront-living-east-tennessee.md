@@ -1,5 +1,6 @@
 ---
 title: "Lakefront Living in East Tennessee: Fort Loudoun, Tellico & Watts Bar"
+seo_title: "East TN Lake Homes: Fort Loudoun, Tellico & Watts Bar"
 date: 2026-11-06 07:00:00 -0500
 description: "Thinking about a lake home near Knoxville? What to know about East Tennessee's three big lakes — docks, seawalls, TVA rules, and what waterfront really costs."
 area: "Lakefront"

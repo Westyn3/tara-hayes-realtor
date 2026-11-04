@@ -1,7 +1,7 @@
 ---
 title: "Sequoyah Hills: Living on Knoxville's Grandest Boulevard"
 date: 2026-11-04 07:00:00 -0500
-description: "Cherokee Boulevard, 1920s estates, and river views ten minutes from downtown — a buyer's guide to Sequoyah Hills from a Realtor who reads old houses like a contractor."
+description: "Cherokee Boulevard, 1920s estates and river views ten minutes from downtown: a Sequoyah Hills buyer's guide from a Realtor who reads houses like a contractor."
 area: "Sequoyah Hills"
 ---
 

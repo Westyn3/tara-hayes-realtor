@@ -1,5 +1,6 @@
 ---
 title: "Selling Your Knoxville Home in Winter: Why the Holidays Actually Work"
+seo_title: "Selling Your Knoxville Home in Winter: Why It Works"
 date: 2026-12-18 07:00:00 -0500
 description: "Conventional wisdom says wait for spring. The data — and eleven winters of Knoxville closings — say otherwise. Here's when winter listing wins."
 area: "Sellers"

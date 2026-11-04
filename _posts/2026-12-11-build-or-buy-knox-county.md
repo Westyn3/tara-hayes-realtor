@@ -1,5 +1,6 @@
 ---
 title: "Should You Build or Buy in Knox County? A Contractor-Broker's Take"
+seo_title: "Build or Buy in Knox County? A Contractor-Broker's Take"
 date: 2026-12-11 07:00:00 -0500
 description: "New construction vs. existing homes in the Knoxville market — real costs, real timelines, and the honest math from someone licensed on both sides."
 area: "New construction"

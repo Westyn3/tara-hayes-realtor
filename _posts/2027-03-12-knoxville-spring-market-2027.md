@@ -1,5 +1,6 @@
 ---
 title: "Knoxville's Spring 2027 Market: How Buyers & Sellers Should Play It"
+seo_title: "Knoxville's Spring 2027 Market: How to Play It"
 date: 2027-03-12 07:00:00 -0500
 description: "Spring is Knoxville's fastest season. What inventory, rates, and demand mean for your strategy right now — whether you're listing or looking."
 area: "Market outlook"

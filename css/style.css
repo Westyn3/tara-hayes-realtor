@@ -290,3 +290,6 @@ p + p { margin-top: 1em; }
 .sold-filters select { font: inherit; font-size: 0.95rem; padding: 0.45rem 0.6rem; border: 1px solid var(--line); border-radius: 6px; background: #fff; color: var(--ink); min-width: 180px; }
 .sold-count { margin-left: auto; font-family: "Fraunces", serif; font-size: 1.05rem; color: var(--pine); }
 @media (max-width: 600px) { .sold-count { margin-left: 0; } }
+
+/* Visually hidden, still read by screen readers and search engines */
+.sr-only { position: absolute; width: 1px; height: 1px; padding: 0; margin: -1px; overflow: hidden; clip: rect(0, 0, 0, 0); white-space: nowrap; border: 0; }
