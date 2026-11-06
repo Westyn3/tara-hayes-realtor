@@ -282,7 +282,7 @@
     var a = e.target.closest && e.target.closest('a[href^="tel:"], a[href^="mailto:"]');
     if (!a) return;
     var isTel = a.href.indexOf('tel:') === 0;
-    gtag('event', isTel ? 'phone_click' : 'email_click', {
+    gtag('event', isTel ? 'phone_call_click' : 'email_click', {
       link_target: a.href.replace(/^(tel:|mailto:)/,''),
       page_source: location.pathname
     });
